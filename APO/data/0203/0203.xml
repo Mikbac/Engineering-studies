@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="203" typ="Linia tramwajowa nocna" wazny_od="11.09.2018" wazny_do="">
+  <wariant id="1" nazwa="Os. Sobieskiego - Dworzec Zachodni">
+   <przystanek id="SOB42" nazwa="Os. Sobieskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.463936" gps_e="16.916744">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="35" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYM42" nazwa="Szymanowskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460185" gps_e="16.917039">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="36" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KURP42" nazwa="Kurpińskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450692" gps_e="16.919504">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="37" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LECH42" nazwa="Lechicka/Poznań Plaza" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.442295" gps_e="16.919902">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="39" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ALSO42" nazwa="Aleje Solidarności" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43577" gps_e="16.920079">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="40" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKA42" nazwa="Słowiańska" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.426902" gps_e="16.919312">
+    <tabliczka id="6" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="42" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT46" nazwa="Most Teatralny" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411215" gps_e="16.914176">
+    <tabliczka id="7" mc="3">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="19" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="45" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP45" nazwa="Rondo Kaponiera" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408116" gps_e="16.913069">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="46" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DWZA42" nazwa="Dworzec Zachodni" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.400631" gps_e="16.910074">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Dworzec Zachodni - Os. Sobieskiego">
+   <przystanek id="DWZA41" nazwa="Dworzec Zachodni" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.401045" gps_e="16.910221">
+    <tabliczka id="33" mc="0">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP46" nazwa="Rondo Kaponiera" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408378" gps_e="16.913173">
+    <tabliczka id="34" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT45" nazwa="Most Teatralny" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411359" gps_e="16.914235">
+    <tabliczka id="35" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKA41" nazwa="Słowiańska" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.427433" gps_e="16.919327">
+    <tabliczka id="36" mc="3">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ALSO41" nazwa="Aleje Solidarności" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43631" gps_e="16.920138">
+    <tabliczka id="37" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="17" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LECH41" nazwa="Lechicka/Poznań Plaza" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.442619" gps_e="16.919887">
+    <tabliczka id="38" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KURP41" nazwa="Kurpińskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450818" gps_e="16.919489">
+    <tabliczka id="39" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYM41" nazwa="Szymanowskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460508" gps_e="16.917024">
+    <tabliczka id="40" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="22" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOB41" nazwa="Os. Sobieskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.463864" gps_e="16.917659">
+   </przystanek>
+  </wariant>
+  <wariant id="3" nazwa="Os. Sobieskiego - Starołęka">
+   <przystanek id="SOB42" nazwa="Os. Sobieskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.463936" gps_e="16.916744">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="35" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYM42" nazwa="Szymanowskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460185" gps_e="16.917039">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="36" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KURP42" nazwa="Kurpińskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450692" gps_e="16.919504">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="37" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LECH42" nazwa="Lechicka/Poznań Plaza" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.442295" gps_e="16.919902">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="39" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ALSO42" nazwa="Aleje Solidarności" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43577" gps_e="16.920079">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="40" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKA42" nazwa="Słowiańska" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.426902" gps_e="16.919312">
+    <tabliczka id="6" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="42" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT46" nazwa="Most Teatralny" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411215" gps_e="16.914176">
+    <tabliczka id="7" mc="3">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="19" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="45" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP45" nazwa="Rondo Kaponiera" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408116" gps_e="16.913069">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="46" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DWZA42" nazwa="Dworzec Zachodni" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.400631" gps_e="16.910074">
+    <tabliczka id="9" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="22" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="48" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DWZA72" nazwa="Dworzec Zachodni" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.401775" gps_e="16.908937">
+    <tabliczka id="10" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="24" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POGL42" nazwa="Poznań Główny" ulica="Matyi" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402901" gps_e="16.915534">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="26" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="52" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WIER42" nazwa="Wierzbięcice" ulica="Matyi" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.40173" gps_e="16.921127">
+    <tabliczka id="12" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="27" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="53" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POLW42" nazwa="Półwiejska" ulica="Królowej Jadwigi" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.399892" gps_e="16.928373">
+    <tabliczka id="13" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="29" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="55" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="AWF73" nazwa="AWF" ulica="Królowej Jadwigi" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.399054" gps_e="16.935988">
+    <tabliczka id="14" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="30" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="56" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SERA41" nazwa="Serafitek" ulica="Krzywoustego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.397099" gps_e="16.944783">
+    <tabliczka id="15" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="31" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="57" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT42" nazwa="Rondo Rataje" ulica="Krzywoustego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.395973" gps_e="16.94927">
+    <tabliczka id="16" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="33" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="59" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WIOS41" nazwa="Wioślarska" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.392981" gps_e="16.948635">
+    <tabliczka id="17" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="29">
+       <min m="01" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OPIA41" nazwa="Os. Piastowskie" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.390224" gps_e="16.947145">
+    <tabliczka id="18" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="29">
+       <min m="02" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ORZE41" nazwa="Os. Rzeczypospolitej" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.385601" gps_e="16.944931">
+    <tabliczka id="19" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="29">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA41" nazwa="Rondo Starołęka" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.380815" gps_e="16.943219">
+    <tabliczka id="20" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="29">
+       <min m="04" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA45" nazwa="Rondo Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.37922" gps_e="16.942673">
+    <tabliczka id="21" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="29">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOM41" nazwa="Stomil" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.376426" gps_e="16.940415">
+    <tabliczka id="22" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="29">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYST41" nazwa="Bystra" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.370999" gps_e="16.934527">
+    <tabliczka id="23" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="29">
+       <min m="07" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAR41" nazwa="Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.36834" gps_e="16.931826">
+   </przystanek>
+  </wariant>
+  <wariant id="4" nazwa="Os. Sobieskiego - Franowo">
+   <przystanek id="SOB42" nazwa="Os. Sobieskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.463936" gps_e="16.916744">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="35" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYM42" nazwa="Szymanowskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460185" gps_e="16.917039">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="36" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KURP42" nazwa="Kurpińskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450692" gps_e="16.919504">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="41" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="37" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LECH42" nazwa="Lechicka/Poznań Plaza" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.442295" gps_e="16.919902">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="39" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ALSO42" nazwa="Aleje Solidarności" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43577" gps_e="16.920079">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="40" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKA42" nazwa="Słowiańska" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.426902" gps_e="16.919312">
+    <tabliczka id="6" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="46" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="42" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT46" nazwa="Most Teatralny" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411215" gps_e="16.914176">
+    <tabliczka id="7" mc="3">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="49" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="19" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="45" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP45" nazwa="Rondo Kaponiera" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408116" gps_e="16.913069">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="46" ozn="S" przyp="S -  zjazd do zajezdni Forteczna (Starołęka) przez przystanek: Dworzec Zachodni, AWF; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DWZA42" nazwa="Dworzec Zachodni" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.400631" gps_e="16.910074">
+    <tabliczka id="9" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="22" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="48" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DWZA72" nazwa="Dworzec Zachodni" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.401775" gps_e="16.908937">
+    <tabliczka id="10" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="24" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="50" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POGL42" nazwa="Poznań Główny" ulica="Matyi" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402901" gps_e="16.915534">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="26" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="52" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WIER42" nazwa="Wierzbięcice" ulica="Matyi" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.40173" gps_e="16.921127">
+    <tabliczka id="12" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="27" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="53" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POLW42" nazwa="Półwiejska" ulica="Królowej Jadwigi" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.399892" gps_e="16.928373">
+    <tabliczka id="13" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="29" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="55" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="AWF73" nazwa="AWF" ulica="Królowej Jadwigi" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.399054" gps_e="16.935988">
+    <tabliczka id="14" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="30" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="56" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SERA41" nazwa="Serafitek" ulica="Krzywoustego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.397099" gps_e="16.944783">
+    <tabliczka id="15" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="31" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="57" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT42" nazwa="Rondo Rataje" ulica="Krzywoustego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.395973" gps_e="16.94927">
+    <tabliczka id="16" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="33" ozn="F" przyp="F -  zjazd do zajezdni Franowo przez przystanek: Dworzec Zachodni, Rondo Rataje; ">
+       </min>
+       <min m="59" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KORN42" nazwa="Kórnicka" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.399036" gps_e="16.95228">
+    <tabliczka id="24" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="34" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KORN43" nazwa="Kórnicka" ulica="Trasa Kórnicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.399162" gps_e="16.953284">
+    <tabliczka id="25" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POKA41" nazwa="Polanka" ulica="Trasa Kórnicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.395738" gps_e="16.964145">
+    <tabliczka id="26" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="37" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSTY41" nazwa="Os. Tysiąclecia" ulica="Trasa Kórnicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.392423" gps_e="16.971893">
+    <tabliczka id="27" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSLE41" nazwa="Os. Lecha" ulica="Trasa Kórnicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.389278" gps_e="16.978431">
+    <tabliczka id="28" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PIAR41" nazwa="Piaśnicka/Rynek" ulica="Piaśnicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.387665" gps_e="16.982474">
+    <tabliczka id="29" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PK41" nazwa="Piaśnicka/Kurlandzka" ulica="Piaśnicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.385078" gps_e="16.987418">
+    <tabliczka id="30" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZWE41" nazwa="Szwedzka" ulica="Piaśnicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.382005" gps_e="16.990738">
+    <tabliczka id="31" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="44" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZWA41" nazwa="Szwajcarska" ulica="Szwajcarska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.382528" gps_e="16.998206">
+    <tabliczka id="32" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="FRWO41" nazwa="Franowo" ulica="Szwajcarska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.381708" gps_e="17.000006">
+   </przystanek>
+  </wariant>
+  <wariant id="5" nazwa="Starołęka - Os. Sobieskiego">
+   <przystanek id="STAR42" nazwa="Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.36834" gps_e="16.932151">
+    <tabliczka id="41" mc="0">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="52" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYST42" nazwa="Bystra" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.371459" gps_e="16.935014">
+    <tabliczka id="42" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="53" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOM42" nazwa="Stomil" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.375777" gps_e="16.939662">
+    <tabliczka id="43" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="54" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA46" nazwa="Rondo Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.379436" gps_e="16.942762">
+    <tabliczka id="44" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="56" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA43" nazwa="Rondo Starołęka" ulica="Hetmańska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.380725" gps_e="16.941389">
+    <tabliczka id="45" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="57" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="HEWI41" nazwa="Hetmańska Wiadukt" ulica="Hetmańska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.382726" gps_e="16.929199">
+    <tabliczka id="46" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="58" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROLN41" nazwa="Rolna" ulica="Hetmańska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.384042" gps_e="16.918043">
+    <tabliczka id="47" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="00" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TRAU43" nazwa="Traugutta" ulica="Hetmańska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.384691" gps_e="16.915209">
+    <tabliczka id="48" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="01" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOLE41" nazwa="Kolejowa" ulica="Hetmańska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.387304" gps_e="16.902252">
+    <tabliczka id="49" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLHE43" nazwa="Głogowska/Hetmańska" ulica="Hetmańska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.389891" gps_e="16.894681">
+    <tabliczka id="50" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="04" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLHE72" nazwa="Głogowska/Hetmańska" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.390611" gps_e="16.89474">
+    <tabliczka id="51" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RYLA72" nazwa="Rynek Łazarski" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.394369" gps_e="16.898961">
+    <tabliczka id="52" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PAWI72" nazwa="Park Wilsona" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.397072" gps_e="16.901986">
+    <tabliczka id="53" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="07" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DWZA41" nazwa="Dworzec Zachodni" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.401045" gps_e="16.910221">
+    <tabliczka id="33" mc="3">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="33" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP46" nazwa="Rondo Kaponiera" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408378" gps_e="16.913173">
+    <tabliczka id="34" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="35" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT45" nazwa="Most Teatralny" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411359" gps_e="16.914235">
+    <tabliczka id="35" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="36" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKA41" nazwa="Słowiańska" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.427433" gps_e="16.919327">
+    <tabliczka id="36" mc="3">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="16" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="39" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ALSO41" nazwa="Aleje Solidarności" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43631" gps_e="16.920138">
+    <tabliczka id="37" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="17" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="40" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LECH41" nazwa="Lechicka/Poznań Plaza" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.442619" gps_e="16.919887">
+    <tabliczka id="38" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="19" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="42" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KURP41" nazwa="Kurpińskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450818" gps_e="16.919489">
+    <tabliczka id="39" mc="1">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="20" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="43" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYM41" nazwa="Szymanowskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460508" gps_e="16.917024">
+    <tabliczka id="40" mc="2">
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="22" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+       <min m="45" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15" ozn="N" przyp="kurs obsługiwany taborem niskopodłogowym - z wyjątkiem sytuacji awaryjnych">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOB41" nazwa="Os. Sobieskiego" ulica="trasa PST" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.463864" gps_e="16.917659">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

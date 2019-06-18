@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="704" typ="Linia autobusowa podmiejska" wazny_od="22.01.2018" wazny_do="">
+  <wariant id="1" nazwa="Głuchowo Stawna - Górczyn">
+   <przystanek id="GLSTW04" nazwa="Głuchowo Stawna" ulica="Stawna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.346544" gps_e="16.768814">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="05" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="05" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="15" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLTEC03" nazwa="Głuchowo Tęczowa" ulica="Tęczowa " strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.345164" gps_e="16.775839">
+    <tabliczka id="2" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="07" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="02" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="07" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="15" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="17" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOKLB01" nazwa="Komorniki Kolumba" ulica="Kolumba" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.347852" gps_e="16.796189">
+    <tabliczka id="3" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="09" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="09" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="19" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOKSW04" nazwa="Komorniki Ks.Wawrzyniaka" ulica="Ks. Wawrzyniaka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.347617" gps_e="16.804232">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="10" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="05" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="18" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="20" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOWIS02" nazwa="Komorniki Wiśniowa" ulica="Wiśniowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.348023" gps_e="16.811951">
+    <tabliczka id="5" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="12" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="22" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="22" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOFAB02" nazwa="Komorniki Fabianowska" ulica="Wiśniowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.349358" gps_e="16.820628">
+    <tabliczka id="6" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="13" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="21" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="23" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="23" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOKOL02" nazwa="Komorniki Kolejowa" ulica="Fabianowska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.35246" gps_e="16.827785">
+    <tabliczka id="7" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="15" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="15" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="25" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LANG01" nazwa="Lange" ulica="Marii Lange " strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.356005" gps_e="16.833423">
+    <tabliczka id="8" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="17" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="25" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="27" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="27" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="27" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SYCH02" nazwa="Sycowska Centrum Handlowe" ulica="Opłotki" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.35485" gps_e="16.838234">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="18" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="18" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="26" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="28" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KJCH02" nazwa="Konopackiej Centrum Handlowe " ulica="Konopackiej" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.356104" gps_e="16.8412">
+    <tabliczka id="10" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="20" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="20" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="28" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="30" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="30" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="30" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NOKO02" nazwa="Nowe Kotowo" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.362353" gps_e="16.8537">
+    <tabliczka id="11" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="22" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="22" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="32" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSIA02" nazwa="Ostatnia" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.373037" gps_e="16.866524">
+    <tabliczka id="12" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="24" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="24" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="34" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="34" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOJA02" nazwa="Bojanowska" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.376083" gps_e="16.872235">
+    <tabliczka id="13" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="26" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="21" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="26" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="36" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="36" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GORC21" nazwa="Górczyn" ulica="Zgoda" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.381663" gps_e="16.880824">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Górczyn - Głuchowo Stawna">
+   <przystanek id="GORC30" nazwa="Górczyn" ulica="Zgoda" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.382068" gps_e="16.881754">
+    <tabliczka id="14" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="25" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="35" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="35" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="35" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="30" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="30" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOJA01" nazwa="Bojanowska" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.376363" gps_e="16.872324">
+    <tabliczka id="15" mc="3">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="27" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="38" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="38" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="38" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="33" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="53" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="53" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="33" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSIA01" nazwa="Ostatnia" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.372757" gps_e="16.864724">
+    <tabliczka id="16" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="29" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="40" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="40" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="40" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="55" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="55" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="35" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NOKO03" nazwa="Nowe Kotowo" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.36265" gps_e="16.852888">
+    <tabliczka id="17" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="31" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="42" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="42" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="37" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="57" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="57" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="57" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="37" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KJCH01" nazwa="Konopackiej Centrum Handlowe " ulica="Konopackiej" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.355734" gps_e="16.840905">
+    <tabliczka id="18" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="33" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="44" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="44" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="39" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="59" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="59" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="59" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="39" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LANG02" nazwa="Lange" ulica="Marii Lange " strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.356131" gps_e="16.832759">
+    <tabliczka id="19" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="34" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="45" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="45" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="45" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="40" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="40" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOKOL01" nazwa="Komorniki Kolejowa" ulica="Fabianowska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.352109" gps_e="16.827107">
+    <tabliczka id="20" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="36" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="47" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="47" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="47" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="42" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="41" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOFAB01" nazwa="Komorniki Fabianowska" ulica="Wiśniowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.349358" gps_e="16.820038">
+    <tabliczka id="21" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="37" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="48" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="48" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="48" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="43" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="43" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOWIS01" nazwa="Komorniki Wiśniowa" ulica="Wiśniowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.347734" gps_e="16.8117">
+    <tabliczka id="22" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="38" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="49" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="49" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="44" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="44" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOKSW03" nazwa="Komorniki Ks.Wawrzyniaka" ulica="Ks. Wawrzyniaka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.347482" gps_e="16.804749">
+    <tabliczka id="23" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="39" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="50" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="50" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="50" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="45" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="45" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOKLB02" nazwa="Komorniki Kolumba" ulica="Kolumba" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.347816" gps_e="16.794271">
+    <tabliczka id="24" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="41" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="52" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="52" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="52" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="47" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="47" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLTEC04" nazwa="Głuchowo Tęczowa" ulica="Tęczowa " strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.345633" gps_e="16.775883">
+    <tabliczka id="25" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="43" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="54" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="54" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="54" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="49" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="09" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="09" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="49" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLSTW01" nazwa="Głuchowo Stawna" ulica="Komornicka" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.346048" gps_e="16.770541">
+    <tabliczka id="26" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="45" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="56" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="56" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="56" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="51" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="51" ozn="W" przyp="kurs obsługiwany taborem wysokopodłogowym">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLSTW04" nazwa="Głuchowo Stawna" ulica="Stawna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.346544" gps_e="16.768814">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

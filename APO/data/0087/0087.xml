@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="87" typ="Linia autobusowa" wazny_od="03.09.2018" wazny_do="">
+  <wariant id="1" nazwa="UAM Os. Różany Potok - Piątkowska">
+   <przystanek id="ORP02" nazwa="UAM Os. Różany Potok" ulica="Krygowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.466626" gps_e="16.941861">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04">
+       </min>
+       <min m="22">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="26">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02">
+       </min>
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UAMG02" nazwa="UAM Wydział Geografii" ulica="Krygowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.465303" gps_e="16.94161">
+    <tabliczka id="2" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04">
+       </min>
+       <min m="22">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="26">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02">
+       </min>
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UAMK02" nazwa="UAM Kampus" ulica=" " strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.463801" gps_e="16.930675">
+    <tabliczka id="3" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="05" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="11">
+       </min>
+       <min m="29" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="37">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+       <min m="17" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="41" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="10">
+       </min>
+       <min m="28" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="34">
+       </min>
+       <min m="52" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="22" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="28">
+       </min>
+       <min m="49" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="12">
+       </min>
+       <min m="30" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="36">
+       </min>
+       <min m="58" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04">
+       </min>
+       <min m="18" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="42" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="12">
+       </min>
+       <min m="30" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="36">
+       </min>
+       <min m="54" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00">
+       </min>
+       <min m="18" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="42" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="12">
+       </min>
+       <min m="30" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="36">
+       </min>
+       <min m="54" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00">
+       </min>
+       <min m="18" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="42" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="12">
+       </min>
+       <min m="30" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="36">
+       </min>
+       <min m="54" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+       <min m="18" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="42" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="19">
+       </min>
+       <min m="37" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="43">
+       </min>
+       <min m="54" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSBA02" nazwa="Os. Batorego II" ulica="Umultowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460338" gps_e="16.928594">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="13">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08">
+       </min>
+       <min m="26">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="21">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="02">
+       </min>
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSBI02" nazwa="Os. Batorego I" ulica="Umultowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.456991" gps_e="16.927458">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="14">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="09">
+       </min>
+       <min m="27">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07">
+       </min>
+       <min m="27">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STRU02" nazwa="Strugarka" ulica="Umultowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.453373" gps_e="16.927561">
+    <tabliczka id="6" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="15">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10">
+       </min>
+       <min m="28">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="04">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOI03" nazwa="Stoińskiego" ulica="Wiechowicza" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450899" gps_e="16.926823">
+    <tabliczka id="7" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="16">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11">
+       </min>
+       <min m="29">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="09">
+       </min>
+       <min m="29">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05">
+       </min>
+       <min m="29">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05">
+       </min>
+       <min m="29">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+       <min m="29">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="24">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KURP01" nazwa="Kurpińskiego" ulica="Kurpińskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450863" gps_e="16.919297">
+    <tabliczka id="8" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="18">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13">
+       </min>
+       <min m="31">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="11">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WOKI01" nazwa="Wojciechowskiego" ulica="Kurpińskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450548" gps_e="16.914294">
+    <tabliczka id="9" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="20">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+       <min m="33">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04">
+       </min>
+       <min m="21">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="13">
+       </min>
+       <min m="33">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="21">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="09">
+       </min>
+       <min m="33">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="21">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="09">
+       </min>
+       <min m="33">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+       <min m="33">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SUSZ02" nazwa="Suszki" ulica="Witosa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.446201" gps_e="16.914161">
+    <tabliczka id="10" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="22">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17">
+       </min>
+       <min m="35">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="21">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="15">
+       </min>
+       <min m="35">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="11">
+       </min>
+       <min m="35">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11">
+       </min>
+       <min m="35">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+       <min m="35">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="30">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WLOA02" nazwa="Włościańska" ulica="Wojciechowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.444059" gps_e="16.913438">
+    <tabliczka id="11" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="23">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18">
+       </min>
+       <min m="36">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+       <min m="24">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="16">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="00">
+       </min>
+       <min m="24">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="12">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00">
+       </min>
+       <min m="24">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="24">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PIAT04" nazwa="Piątkowska" ulica="Piątkowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.441287" gps_e="16.91183">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Piątkowska - UAM Os. Różany Potok">
+   <przystanek id="PIAT04" nazwa="Piątkowska" ulica="Piątkowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.441287" gps_e="16.91183">
+    <tabliczka id="12" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08">
+       </min>
+       <min m="35">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="16">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="23">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PIAT01" nazwa="Piątkowska" ulica="Piątkowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.441485" gps_e="16.912376">
+    <tabliczka id="13" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08">
+       </min>
+       <min m="35">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="16">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="23">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WLOA01" nazwa="Włościańska" ulica="Wojciechowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.444716" gps_e="16.913852">
+    <tabliczka id="14" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="05">
+       </min>
+       <min m="29">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10">
+       </min>
+       <min m="37">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="18">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06">
+       </min>
+       <min m="30">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="18">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="06">
+       </min>
+       <min m="30">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="18">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06">
+       </min>
+       <min m="30">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="18">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+       <min m="25">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SUSZ01" nazwa="Suszki" ulica="Wojciechowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.44684" gps_e="16.913925">
+    <tabliczka id="15" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="18">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+       <min m="30">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+       <min m="38">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="19">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WOKI02" nazwa="Wojciechowskiego" ulica="Kurpińskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.45062" gps_e="16.91484">
+    <tabliczka id="16" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="18">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12">
+       </min>
+       <min m="39">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="20">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="20">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KURP02" nazwa="Kurpińskiego" ulica="Kurpińskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450674" gps_e="16.919238">
+    <tabliczka id="17" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="21">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="09">
+       </min>
+       <min m="33">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="20">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14">
+       </min>
+       <min m="41">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="22">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+       <min m="29">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KURP06" nazwa="Kurpińskiego" ulica="Wiechowicza" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.450683" gps_e="16.922293">
+    <tabliczka id="18" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="22">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="21">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="15">
+       </min>
+       <min m="42">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="23">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="11">
+       </min>
+       <min m="35">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="11">
+       </min>
+       <min m="35">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11">
+       </min>
+       <min m="35">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+       <min m="30">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOI01" nazwa="Stoińskiego" ulica="Umultowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.451349" gps_e="16.927443">
+    <tabliczka id="19" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="00">
+       </min>
+       <min m="24">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12">
+       </min>
+       <min m="36">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="23">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="17">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+       <min m="25">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="13">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="01">
+       </min>
+       <min m="25">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="13">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+       <min m="25">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+       <min m="25">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="15">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STRU01" nazwa="Strugarka" ulica="Umultowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.453904" gps_e="16.927591">
+    <tabliczka id="20" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="01">
+       </min>
+       <min m="25">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+       <min m="24">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="18">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09">
+       </min>
+       <min m="33">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSBI01" nazwa="Os. Batorego I" ulica="Umultowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.457342" gps_e="16.927473">
+    <tabliczka id="21" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="14">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+       <min m="25">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="19">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10">
+       </min>
+       <min m="34">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSBA01" nazwa="Os. Batorego II" ulica="Umultowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460679" gps_e="16.928845">
+    <tabliczka id="22" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="03">
+       </min>
+       <min m="27">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02">
+       </min>
+       <min m="26">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="20">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04">
+       </min>
+       <min m="28">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="16">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+       <min m="35">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UAMK02" nazwa="UAM Kampus" ulica=" " strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.463801" gps_e="16.930675">
+    <tabliczka id="3" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="05" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="11">
+       </min>
+       <min m="29" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="37">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+       <min m="17" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="41" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="10">
+       </min>
+       <min m="28" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="34">
+       </min>
+       <min m="52" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="22" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="28">
+       </min>
+       <min m="49" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="12">
+       </min>
+       <min m="30" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="36">
+       </min>
+       <min m="58" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04">
+       </min>
+       <min m="18" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="42" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="12">
+       </min>
+       <min m="30" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="36">
+       </min>
+       <min m="54" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00">
+       </min>
+       <min m="18" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="42" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="12">
+       </min>
+       <min m="30" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="36">
+       </min>
+       <min m="54" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00">
+       </min>
+       <min m="18" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="42" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="12">
+       </min>
+       <min m="30" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="36">
+       </min>
+       <min m="54" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+       <min m="18" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="24">
+       </min>
+       <min m="42" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="19">
+       </min>
+       <min m="37" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="43">
+       </min>
+       <min m="54" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: UAM Os. Różany Potok">
+       </min>
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UAMG01" nazwa="UAM Wydział Geografii" ulica="Krygowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.464188" gps_e="16.941079">
+    <tabliczka id="23" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="07">
+       </min>
+       <min m="31">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06">
+       </min>
+       <min m="30">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="24">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="00">
+       </min>
+       <min m="20">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="20">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08">
+       </min>
+       <min m="32">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="15">
+       </min>
+       <min m="39">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ORP02" nazwa="UAM Os. Różany Potok" ulica="Krygowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.466626" gps_e="16.941861">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

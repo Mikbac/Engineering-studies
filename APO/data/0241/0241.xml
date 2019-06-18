@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="241" typ="Linia autobusowa nocna" wazny_od="03.09.2018" wazny_do="">
+  <wariant id="1" nazwa="Tarnowo Pdg Centrum - Poznań Główny">
+   <przystanek id="TPCEN02" nazwa="Tarnowo Pdg Centrum" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.464296" gps_e="16.664139">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="47" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="47" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TPROL02" nazwa="Tarnowo Pdg Rolna" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.462353" gps_e="16.672934">
+    <tabliczka id="2" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TPDZI02" nazwa="Tarnowo Pdg Działkowa" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.457198" gps_e="16.691558">
+    <tabliczka id="3" mc="3" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="51" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="51" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TPMAR02" nazwa="Tarnowo Pdg Marianowska" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.454372" gps_e="16.701977">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SAJAG01" nazwa="Sady Szkolna (Jagodowa)" ulica="Szkolna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.447623" gps_e="16.722225">
+    <tabliczka id="5" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SALIP01" nazwa="Sady Lipowa" ulica="Lusowska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.443366" gps_e="16.71827">
+    <tabliczka id="6" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LWKOS01" nazwa="Lusowo Kościół" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.432997" gps_e="16.697845">
+    <tabliczka id="7" mc="4" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42" ozn="AS" przyp="A - Kurs do: Tarnowo Pdg/Centrum; S - kurs wykonywany również w noce poprzedzające dni wolne od pracy">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42" ozn="AS" przyp="A - Kurs do: Tarnowo Pdg/Centrum; S - kurs wykonywany również w noce poprzedzające dni wolne od pracy">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LWSZK02" nazwa="Lusowo Szkoła" ulica="Nowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.433321" gps_e="16.702213">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="00" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="00" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LWSWA02" nazwa="Lusowo Swadzimska" ulica="Nowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.431376" gps_e="16.705962">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LWOTO02" nazwa="Lusowo Otowska" ulica="Nowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.425857" gps_e="16.715466">
+    <tabliczka id="10" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTZAK02" nazwa="Batorowo Zakrzewska" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.424012" gps_e="16.720793">
+    <tabliczka id="11" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="04" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="04" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTBRZ02" nazwa="Batorowo Brzask" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.422688" gps_e="16.732584">
+    <tabliczka id="12" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="06" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="06" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTPOR02" nazwa="Batorowo Poranek" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.421869" gps_e="16.739712">
+    <tabliczka id="13" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="07" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="07" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTWID02" nazwa="Batorowo Widok" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.42186" gps_e="16.745748">
+    <tabliczka id="14" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="08" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="08" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTBAT02" nazwa="Batorowo Batorowska" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.421202" gps_e="16.754514">
+    <tabliczka id="15" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="09" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="09" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTSKO02" nazwa="Batorowo Skośna" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.4205" gps_e="16.768283">
+    <tabliczka id="16" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="11" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="11" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMBRZ01" nazwa="Przeźmierowo Brzozowa" ulica="Olszynowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.419797" gps_e="16.774806">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMOLS01" nazwa="Przeźmierowo Kasztanowa" ulica="Sosnowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.418618" gps_e="16.77851">
+    <tabliczka id="18" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMCME01" nazwa="Przeźmierowo Cmentarz" ulica="Sosnowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.416871" gps_e="16.787453">
+    <tabliczka id="19" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMKRA01" nazwa="Przeźmierowo Krańcowa" ulica="Rynkowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.421571" gps_e="16.787438">
+    <tabliczka id="20" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMKOS01" nazwa="Przeźmierowo Kościelna" ulica="Rynkowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.426182" gps_e="16.785269">
+    <tabliczka id="21" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMLES01" nazwa="Przeźmierowo Leśna" ulica="Rynkowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.431575" gps_e="16.782745">
+    <tabliczka id="22" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="17" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="17" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMWIA02" nazwa="Przeźmierowo Wiadukt" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.435418" gps_e="16.786317">
+    <tabliczka id="23" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BNPRZ02" nazwa="Baranowo Przemysława" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.433924" gps_e="16.79616">
+    <tabliczka id="24" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WICH02" nazwa="Wichrowa" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.431701" gps_e="16.809132">
+    <tabliczka id="25" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="22" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="22" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LEKA02" nazwa="Leśnowolska" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.4318" gps_e="16.821897">
+    <tabliczka id="26" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SMOC02" nazwa="Smochowice" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.431025" gps_e="16.832508">
+    <tabliczka id="27" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="24" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="24" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOLO02" nazwa="Kołobrzeska" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43116" gps_e="16.83844">
+    <tabliczka id="28" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="25" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="25" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TATR02" nazwa="Tatrzańska" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.429108" gps_e="16.848594">
+    <tabliczka id="29" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="26" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="26" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PILO02" nazwa="Pilotów" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.427109" gps_e="16.856017">
+    <tabliczka id="30" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PLOT02" nazwa="Przelot" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.426038" gps_e="16.859736">
+    <tabliczka id="31" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BUZA02" nazwa="Bużańska" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.423543" gps_e="16.866288">
+    <tabliczka id="32" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PONZ02" nazwa="Polska" ulica="Polska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.420311" gps_e="16.87284">
+    <tabliczka id="33" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="30" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="30" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OGDY02" nazwa="Ogrody" ulica="Szpitalna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.416745" gps_e="16.881872">
+    <tabliczka id="34" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="31" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="31" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZERO42" nazwa="Żeromskiego" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.415601" gps_e="16.890638">
+    <tabliczka id="35" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="32" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="32" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PONA72" nazwa="Polna" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41416" gps_e="16.897249">
+    <tabliczka id="36" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RJEZ72" nazwa="Rynek Jeżycki" ulica="Kraszewskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411953" gps_e="16.90361">
+    <tabliczka id="37" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="34" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="34" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KRAS42" nazwa="Kraszewskiego" ulica="Zwierzyniecka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408972" gps_e="16.903595">
+    <tabliczka id="38" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZEYL42" nazwa="Zeylanda" ulica="Zwierzyniecka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408206" gps_e="16.908849">
+    <tabliczka id="39" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP02" nazwa="Rondo Kaponiera" ulica="Zwierzyniecka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407999" gps_e="16.91">
+    <tabliczka id="40" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP05" nazwa="Rondo Kaponiera" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407026" gps_e="16.913291">
+    <tabliczka id="41" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="37" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="37" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POGL01" nazwa="Poznań Główny" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402558" gps_e="16.911667">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Poznań Główny - Tarnowo Pdg Centrum">
+   <przystanek id="POGL02" nazwa="Poznań Główny" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402522" gps_e="16.91211">
+    <tabliczka id="42" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP06" nazwa="Rondo Kaponiera" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.406837" gps_e="16.913246">
+    <tabliczka id="43" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="25">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="25">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP01" nazwa="Rondo Kaponiera" ulica="Zwierzyniecka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408071" gps_e="16.911667">
+    <tabliczka id="44" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="00" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="00" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZEYL41" nazwa="Zeylanda" ulica="Zwierzyniecka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408351" gps_e="16.908008">
+    <tabliczka id="45" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KRAS41" nazwa="Kraszewskiego" ulica="Zwierzyniecka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409044" gps_e="16.902857">
+    <tabliczka id="46" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RJEZ71" nazwa="Rynek Jeżycki" ulica="Kraszewskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.412359" gps_e="16.903861">
+    <tabliczka id="47" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="02" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="02" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PONA71" nazwa="Polna" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.414223" gps_e="16.89688">
+    <tabliczka id="48" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZERO41" nazwa="Żeromskiego" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.415655" gps_e="16.890357">
+    <tabliczka id="49" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="04" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="04" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OGDY01" nazwa="Ogrody" ulica="Szpitalna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.416465" gps_e="16.881591">
+    <tabliczka id="50" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="05" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="05" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PONZ01" nazwa="Polska" ulica="Nowina" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.418564" gps_e="16.873106">
+    <tabliczka id="51" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="06" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="06" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BUZA01" nazwa="Bużańska" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.423733" gps_e="16.866627">
+    <tabliczka id="52" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="08" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="08" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PLOT01" nazwa="Przelot" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.426173" gps_e="16.86009">
+    <tabliczka id="53" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="09" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="09" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PILO01" nazwa="Pilotów" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.427685" gps_e="16.854792">
+    <tabliczka id="54" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="10" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="10" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TATR01" nazwa="Tatrzańska" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.429513" gps_e="16.8479">
+    <tabliczka id="55" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="11" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="11" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOLO01" nazwa="Kołobrzeska" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43143" gps_e="16.838499">
+    <tabliczka id="56" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SMOC01" nazwa="Smochowice" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.432043" gps_e="16.832419">
+    <tabliczka id="57" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LUPO01" nazwa="Łupowska" ulica="Sianowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.435337" gps_e="16.830058">
+    <tabliczka id="58" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BRAN01" nazwa="Braniewska" ulica="Sianowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.435184" gps_e="16.821705">
+    <tabliczka id="59" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="CZKA01" nazwa="Człopska" ulica="Sianowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.435103" gps_e="16.815994">
+    <tabliczka id="60" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MIED03" nazwa="Międzyzdrojska" ulica="Sianowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.435067" gps_e="16.810091">
+    <tabliczka id="61" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="17" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="17" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WICH03" nazwa="Wichrowa" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.432457" gps_e="16.807745">
+    <tabliczka id="62" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BNPRZ01" nazwa="Baranowo Przemysława" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.434104" gps_e="16.796219">
+    <tabliczka id="63" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMWIA01" nazwa="Przeźmierowo Wiadukt" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.435626" gps_e="16.786361">
+    <tabliczka id="64" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="21" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="21" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMLES02" nazwa="Przeźmierowo Leśna" ulica="Rynkowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.431061" gps_e="16.782981">
+    <tabliczka id="65" mc="3" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="24" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="24" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMKOS02" nazwa="Przeźmierowo Kościelna" ulica="Rynkowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.425317" gps_e="16.785667">
+    <tabliczka id="66" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="25" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="25" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMKRA02" nazwa="Przeźmierowo Krańcowa" ulica="Rynkowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.421058" gps_e="16.787689">
+    <tabliczka id="67" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="26" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="26" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMCME02" nazwa="Przeźmierowo Cmentarz" ulica="Sosnowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.416925" gps_e="16.788324">
+    <tabliczka id="68" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMOLS02" nazwa="Przeźmierowo Kasztanowa" ulica="Sosnowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.418186" gps_e="16.779425">
+    <tabliczka id="69" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PMBRZ02" nazwa="Przeźmierowo Brzozowa" ulica="Olszynowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.41996" gps_e="16.774083">
+    <tabliczka id="70" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTSKO01" nazwa="Batorowo Skośna" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.420419" gps_e="16.768903">
+    <tabliczka id="71" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="30" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="30" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTBAT01" nazwa="Batorowo Batorowska" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.421337" gps_e="16.753761">
+    <tabliczka id="72" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="32" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="32" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTWID01" nazwa="Batorowo Widok" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.421869" gps_e="16.746619">
+    <tabliczka id="73" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTPOR01" nazwa="Batorowo Poranek" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.421815" gps_e="16.740244">
+    <tabliczka id="74" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="34" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="34" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTBRZ01" nazwa="Batorowo Brzask" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.422625" gps_e="16.733175">
+    <tabliczka id="75" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="35" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="35" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BTZAK01" nazwa="Batorowo Zakrzewska" ulica="Batorego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.423949" gps_e="16.721339">
+    <tabliczka id="76" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="37" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="37" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LWOTO01" nazwa="Lusowo Otowska" ulica="Nowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.426425" gps_e="16.714536">
+    <tabliczka id="77" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="38" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="38" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LWSWA01" nazwa="Lusowo Swadzimska" ulica="Nowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.431602" gps_e="16.705608">
+    <tabliczka id="78" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="40" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="40" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LWSZK01" nazwa="Lusowo Szkoła" ulica="Nowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.433519" gps_e="16.701697">
+    <tabliczka id="79" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="41" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="41" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LWKOS01" nazwa="Lusowo Kościół" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.432997" gps_e="16.697845">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42" ozn="AS" przyp="A - Kurs do: Tarnowo Pdg/Centrum; S - kurs wykonywany również w noce poprzedzające dni wolne od pracy">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42" ozn="AS" przyp="A - Kurs do: Tarnowo Pdg/Centrum; S - kurs wykonywany również w noce poprzedzające dni wolne od pracy">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SALIP02" nazwa="Sady Lipowa" ulica="Lusowska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.443708" gps_e="16.718771">
+    <tabliczka id="80" mc="3" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="45" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="45" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SAWIA01" nazwa="Sady Wiadukt" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.448514" gps_e="16.72525">
+    <tabliczka id="81" mc="3" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TPMAR01" nazwa="Tarnowo Pdg Marianowska" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.454543" gps_e="16.703069">
+    <tabliczka id="82" mc="3" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="51" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TPDZI01" nazwa="Tarnowo Pdg Działkowa" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.457566" gps_e="16.691012">
+    <tabliczka id="83" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="51" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TPKRO01" nazwa="Tarnowo Pdg Krótka" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.460275" gps_e="16.680372">
+    <tabliczka id="84" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="53" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TPROL01" nazwa="Tarnowo Pdg Rolna" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.462677" gps_e="16.671709">
+    <tabliczka id="85" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="26">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="26">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany również w noce poprzedzające dni wolne od pracy; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TPCEN01" nazwa="Tarnowo Pdg Centrum" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.464188" gps_e="16.66498">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

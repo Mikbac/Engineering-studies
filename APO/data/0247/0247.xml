@@ -1,0 +1,4961 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="247" typ="Linia autobusowa nocna" wazny_od="23.01.2018" wazny_do="">
+  <wariant id="1" nazwa="Rondo Rataje - Sypniewo">
+   <przystanek id="RRAT30" nazwa="Rondo Rataje" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.396811" gps_e="16.94986">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT01" nazwa="Rondo Rataje" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.394531" gps_e="16.949314">
+    <tabliczka id="2" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OPIA01" nazwa="Os. Piastowskie" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.391044" gps_e="16.947248">
+    <tabliczka id="3" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ORZE01" nazwa="Os. Rzeczypospolitej" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.385448" gps_e="16.944503">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA01" nazwa="Rondo Starołęka" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.381212" gps_e="16.943027">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOM01" nazwa="Stomil" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.376498" gps_e="16.94012">
+    <tabliczka id="6" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYST01" nazwa="Bystra" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.371333" gps_e="16.934571">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAR01" nazwa="Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.368808" gps_e="16.931974">
+    <tabliczka id="8" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAR30" nazwa="Starołęka" ulica="Książęca" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.366158" gps_e="16.930247">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAK01" nazwa="Św. Antoniego Kościół" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.363913" gps_e="16.932992">
+    <tabliczka id="10" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAC01" nazwa="Św. Antoniego Cmentarz" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.36302" gps_e="16.938024">
+    <tabliczka id="11" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PINC01" nazwa="Pińczowska" ulica="Minikowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.359332" gps_e="16.940932">
+    <tabliczka id="12" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="35" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="35" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="35" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROMI02" nazwa="Rondo Minikowo" ulica="Minikowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.355996" gps_e="16.942821">
+    <tabliczka id="13" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PINC02" nazwa="Pińczowska" ulica="Minikowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.359765" gps_e="16.940696">
+    <tabliczka id="14" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAC02" nazwa="Św. Antoniego Cmentarz" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.363155" gps_e="16.937227">
+    <tabliczka id="15" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAK02" nazwa="Św. Antoniego Kościół" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.364066" gps_e="16.932151">
+    <tabliczka id="16" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAN01" nazwa="Św. Antoniego" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.363949" gps_e="16.92734">
+    <tabliczka id="17" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZEGL01" nazwa="Żeglarska" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.35641" gps_e="16.923665">
+    <tabliczka id="18" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DZIE01" nazwa="Dziedzicka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.353525" gps_e="16.922308">
+    <tabliczka id="19" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAW01" nazwa="Starołęcka Wiadukt" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.350314" gps_e="16.920758">
+    <tabliczka id="20" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TARN01" nazwa="Tarnobrzeska" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.34593" gps_e="16.918603">
+    <tabliczka id="21" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STWI01" nazwa="Starołęka Wielka" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.341691" gps_e="16.918736">
+    <tabliczka id="22" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KLIM01" nazwa="Klimontowska" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.339002" gps_e="16.921216">
+    <tabliczka id="23" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STRZ01" nazwa="Strzeleckiego" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.336052" gps_e="16.924049">
+    <tabliczka id="24" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OZAR01" nazwa="Ożarowska" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.332281" gps_e="16.93283">
+    <tabliczka id="25" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLUS01" nazwa="Głuszyna" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.321804" gps_e="16.947809">
+    <tabliczka id="26" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DASZ01" nazwa="Daszewicka" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.317806" gps_e="16.954745">
+    <tabliczka id="27" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLSZ01" nazwa="Głuszyna Szkoła" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.314123" gps_e="16.964647">
+    <tabliczka id="28" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLOS01" nazwa="Głuszyna OSIR" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.312625" gps_e="16.969591">
+    <tabliczka id="29" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PIOT01" nazwa="Piotrowo" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.311586" gps_e="16.973693">
+    <tabliczka id="30" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SYPN02" nazwa="Sypniewo" ulica="Sypniewo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.307966" gps_e="16.98243">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Sypniewo - Rondo Rataje">
+   <przystanek id="SYPN02" nazwa="Sypniewo" ulica="Sypniewo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.307966" gps_e="16.98243">
+    <tabliczka id="31" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PIOT02" nazwa="Piotrowo" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.311379" gps_e="16.974505">
+    <tabliczka id="32" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLOS02" nazwa="Głuszyna OSIR" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.312742" gps_e="16.969119">
+    <tabliczka id="33" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLSZ02" nazwa="Głuszyna Szkoła" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.314385" gps_e="16.963865">
+    <tabliczka id="34" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="22" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="22" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="22" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DASZ02" nazwa="Daszewicka" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.318122" gps_e="16.954081">
+    <tabliczka id="35" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLUS02" nazwa="Głuszyna" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.321407" gps_e="16.948428">
+    <tabliczka id="36" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OZAR02" nazwa="Ożarowska" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.332542" gps_e="16.932284">
+    <tabliczka id="37" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STRZ02" nazwa="Strzeleckiego" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.3357" gps_e="16.924359">
+    <tabliczka id="38" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="26" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="26" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="26" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KLIM02" nazwa="Klimontowska" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.339309" gps_e="16.920906">
+    <tabliczka id="39" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STWI02" nazwa="Starołęka Wielka" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.342421" gps_e="16.918205">
+    <tabliczka id="40" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TARN02" nazwa="Tarnobrzeska" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.345389" gps_e="16.918367">
+    <tabliczka id="41" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="CZER02" nazwa="Czernichowska " ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.347076" gps_e="16.919179">
+    <tabliczka id="42" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAW02" nazwa="Starołęcka Wiadukt" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.351026" gps_e="16.921112">
+    <tabliczka id="43" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DZIE02" nazwa="Dziedzicka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.354174" gps_e="16.922632">
+    <tabliczka id="44" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZEGL02" nazwa="Żeglarska" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.35715" gps_e="16.924034">
+    <tabliczka id="45" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAN02" nazwa="Św. Antoniego" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.364463" gps_e="16.92762">
+    <tabliczka id="46" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAR21" nazwa="Starołęka" ulica="Książęca" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.366329" gps_e="16.930188">
+    <tabliczka id="48" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAR02" nazwa="Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.368817" gps_e="16.933095">
+    <tabliczka id="49" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYST02" nazwa="Bystra" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.37053" gps_e="16.933759">
+    <tabliczka id="50" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOM02" nazwa="Stomil" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.375993" gps_e="16.939618">
+    <tabliczka id="51" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA02" nazwa="Rondo Starołęka" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.381221" gps_e="16.943706">
+    <tabliczka id="52" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ORZE02" nazwa="Os. Rzeczypospolitej" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.386268" gps_e="16.94558">
+    <tabliczka id="53" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OPIA02" nazwa="Os. Piastowskie" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.391413" gps_e="16.94806">
+    <tabliczka id="54" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT06" nazwa="Rondo Rataje" ulica="Krzywoustego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.396162" gps_e="16.949432">
+   </przystanek>
+  </wariant>
+  <wariant id="3" nazwa="Sypniewo - Rondo Rataje" obj="przez Rondo Minikowo">
+   <przystanek id="SYPN02" nazwa="Sypniewo" ulica="Sypniewo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.307966" gps_e="16.98243">
+    <tabliczka id="31" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PIOT02" nazwa="Piotrowo" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.311379" gps_e="16.974505">
+    <tabliczka id="32" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLOS02" nazwa="Głuszyna OSIR" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.312742" gps_e="16.969119">
+    <tabliczka id="33" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLSZ02" nazwa="Głuszyna Szkoła" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.314385" gps_e="16.963865">
+    <tabliczka id="34" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="22" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="22" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="22" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DASZ02" nazwa="Daszewicka" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.318122" gps_e="16.954081">
+    <tabliczka id="35" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GLUS02" nazwa="Głuszyna" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.321407" gps_e="16.948428">
+    <tabliczka id="36" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="23" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OZAR02" nazwa="Ożarowska" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.332542" gps_e="16.932284">
+    <tabliczka id="37" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STRZ02" nazwa="Strzeleckiego" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.3357" gps_e="16.924359">
+    <tabliczka id="38" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="26" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="26" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="26" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KLIM02" nazwa="Klimontowska" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.339309" gps_e="16.920906">
+    <tabliczka id="39" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STWI02" nazwa="Starołęka Wielka" ulica="Głuszyna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.342421" gps_e="16.918205">
+    <tabliczka id="40" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TARN02" nazwa="Tarnobrzeska" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.345389" gps_e="16.918367">
+    <tabliczka id="41" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="CZER02" nazwa="Czernichowska " ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.347076" gps_e="16.919179">
+    <tabliczka id="42" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAW02" nazwa="Starołęcka Wiadukt" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.351026" gps_e="16.921112">
+    <tabliczka id="43" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DZIE02" nazwa="Dziedzicka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.354174" gps_e="16.922632">
+    <tabliczka id="44" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZEGL02" nazwa="Żeglarska" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.35715" gps_e="16.924034">
+    <tabliczka id="45" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAN02" nazwa="Św. Antoniego" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.364463" gps_e="16.92762">
+    <tabliczka id="46" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAN03" nazwa="Św. Antoniego" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.364562" gps_e="16.929303">
+    <tabliczka id="47" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="28">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="28">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="28">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAK01" nazwa="Św. Antoniego Kościół" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.363913" gps_e="16.932992">
+    <tabliczka id="10" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAC01" nazwa="Św. Antoniego Cmentarz" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.36302" gps_e="16.938024">
+    <tabliczka id="11" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PINC01" nazwa="Pińczowska" ulica="Minikowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.359332" gps_e="16.940932">
+    <tabliczka id="12" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="35" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="35" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="35" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROMI02" nazwa="Rondo Minikowo" ulica="Minikowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.355996" gps_e="16.942821">
+    <tabliczka id="13" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PINC02" nazwa="Pińczowska" ulica="Minikowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.359765" gps_e="16.940696">
+    <tabliczka id="14" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="36" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAC02" nazwa="Św. Antoniego Cmentarz" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.363155" gps_e="16.937227">
+    <tabliczka id="15" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SWAK02" nazwa="Św. Antoniego Kościół" ulica="św. Antoniego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.364066" gps_e="16.932151">
+    <tabliczka id="16" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="37" ozn="A" przyp="A -  kurs przez Św. Antoniego, Rondo Minikowo">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAR21" nazwa="Starołęka" ulica="Książęca" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.366329" gps_e="16.930188">
+    <tabliczka id="48" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAR02" nazwa="Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.368817" gps_e="16.933095">
+    <tabliczka id="49" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYST02" nazwa="Bystra" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.37053" gps_e="16.933759">
+    <tabliczka id="50" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOM02" nazwa="Stomil" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.375993" gps_e="16.939618">
+    <tabliczka id="51" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA02" nazwa="Rondo Starołęka" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.381221" gps_e="16.943706">
+    <tabliczka id="52" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ORZE02" nazwa="Os. Rzeczypospolitej" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.386268" gps_e="16.94558">
+    <tabliczka id="53" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OPIA02" nazwa="Os. Piastowskie" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.391413" gps_e="16.94806">
+    <tabliczka id="54" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT06" nazwa="Rondo Rataje" ulica="Krzywoustego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.396162" gps_e="16.949432">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

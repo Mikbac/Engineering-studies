@@ -1,0 +1,7939 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="902" typ="Linia autobusowa podmiejska" wazny_od="15.04.2017" wazny_do="">
+  <wariant id="1" nazwa="Suchy Las Działki - Os. Sobieskiego">
+   <przystanek id="SLDZI01" nazwa="Suchy Las Działki" ulica="Bogusławskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.486852" gps_e="16.879835">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLLAK02" nazwa="Suchy Las Łąkowa" ulica="Bogusławskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.481025" gps_e="16.879068">
+    <tabliczka id="2" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKRA02" nazwa="Suchy Las Krańcowa" ulica="Alejowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.481349" gps_e="16.886255">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="03">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="03">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="REMO01" nazwa="Rezerwat Morasko" ulica="Meteorytowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.488048" gps_e="16.898179">
+    <tabliczka id="4" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MORA02" nazwa="Morasko" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.489253" gps_e="16.905395">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="04" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+       <min m="43" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="01">
+       </min>
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+       <min m="45" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="01">
+       </min>
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+       <min m="45" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+       <min m="45" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="14" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="04" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="21">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="11">
+       </min>
+       <min m="43" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="23" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="23" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="03" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="21">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="06">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+       <min m="35" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="26">
+       </min>
+       <min m="58" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+       <min m="48" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+       <min m="38" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="43" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="28" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="16">
+       </min>
+       <min m="58" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11">
+       </min>
+       <min m="43" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="21">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="21">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="11">
+       </min>
+       <min m="45" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="06">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+       <min m="35" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="26">
+       </min>
+       <min m="58" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+       <min m="48" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+       <min m="38" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="28" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="28" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MOKO02" nazwa="Morasko Kościół" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.488354" gps_e="16.908834">
+    <tabliczka id="6" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="07">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MOCM02" nazwa="Morasko Cmentarz" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.484038" gps_e="16.910133">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="08">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="08">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZKL02" nazwa="Szklarniowa" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.477284" gps_e="16.906369">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="09">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="09">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DESZ02" nazwa="Deszczowa" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.471564" gps_e="16.902045">
+    <tabliczka id="9" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="11">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="01">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="01">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WIET02" nazwa="Wietrzna" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.467705" gps_e="16.900407">
+    <tabliczka id="10" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="07">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OM I02" nazwa="Os. Marysieńki I" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.461777" gps_e="16.903551">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="19">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSZY01" nazwa="Os. Zygmunta Starego" ulica="Szymanowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460194" gps_e="16.909631">
+    <tabliczka id="12" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="01">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="11">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="01">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYM08" nazwa="Szymanowskiego" ulica="Szymanowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460266" gps_e="16.915844">
+    <tabliczka id="13" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="02">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="12">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="02">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZLI01" nazwa="Szeligowskiego" ulica="Szeligowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.462785" gps_e="16.917836">
+    <tabliczka id="14" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="03">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="13">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="03">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="08">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="08">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOB21" nazwa="Os. Sobieskiego" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.464656" gps_e="16.917452">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Os. Sobieskiego - Suchy Las Działki">
+   <przystanek id="SOB30" nazwa="Os. Sobieskiego" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.464863" gps_e="16.916478">
+    <tabliczka id="15" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="05">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZLI02" nazwa="Szeligowskiego" ulica="Szeligowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.462614" gps_e="16.917821">
+    <tabliczka id="16" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="07">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYM01" nazwa="Szymanowskiego" ulica="Szymanowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460472" gps_e="16.917024">
+    <tabliczka id="17" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="03">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="08">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSZY02" nazwa="Os. Zygmunta Starego" ulica="Szymanowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460194" gps_e="16.908893">
+    <tabliczka id="18" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="05">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OM I01" nazwa="Os. Marysieńki I" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460266" gps_e="16.903757">
+    <tabliczka id="19" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="10">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OMII01" nazwa="Os. Marysieńki II" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.463684" gps_e="16.903565">
+    <tabliczka id="20" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="11">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WIET01" nazwa="Wietrzna" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.467175" gps_e="16.900216">
+    <tabliczka id="21" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="08">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="12">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="09">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DESZ01" nazwa="Deszczowa" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.471933" gps_e="16.902341">
+    <tabliczka id="22" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="00">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="00">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="14">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZKL01" nazwa="Szklarniowa" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.477779" gps_e="16.906709">
+    <tabliczka id="23" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="01">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="01">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MOCM01" nazwa="Morasko Cmentarz" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.484523" gps_e="16.910059">
+    <tabliczka id="24" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="02">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="02">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="01">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="01">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MOKO01" nazwa="Morasko Kościół" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.488551" gps_e="16.908716">
+    <tabliczka id="25" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="03">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="03">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="02">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MORA02" nazwa="Morasko" ulica="Morasko" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.489253" gps_e="16.905395">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="04" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+       <min m="43" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="01">
+       </min>
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+       <min m="45" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="01">
+       </min>
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+       <min m="45" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+       <min m="45" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+       <min m="50" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="20" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="14" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="04" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="21">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="11">
+       </min>
+       <min m="43" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="4">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="23" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="23" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="03" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="21">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="06">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+       <min m="35" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="26">
+       </min>
+       <min m="58" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+       <min m="48" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+       <min m="38" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="43" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="28" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="5">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="16">
+       </min>
+       <min m="58" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11">
+       </min>
+       <min m="43" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="21">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="21">
+       </min>
+       <min m="53" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="11">
+       </min>
+       <min m="45" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="06">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+       <min m="35" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="26">
+       </min>
+       <min m="58" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+       <min m="48" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+       <min m="38" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="28" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="28" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18" ozn="A" przyp="A - Kurs do: Suchy Las/Działki">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="REMO02" nazwa="Rezerwat Morasko" ulica="Meteorytowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.487895" gps_e="16.897338">
+    <tabliczka id="26" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="05">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="21">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="21">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="21">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="05">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="19">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="04">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="19">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKRA01" nazwa="Suchy Las Krańcowa" ulica="Alejowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.481394" gps_e="16.886402">
+    <tabliczka id="27" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="07">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="23">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="23">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="23">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="07">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLLAK01" nazwa="Suchy Las Łąkowa" ulica="Bogusławskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.480809" gps_e="16.879083">
+    <tabliczka id="28" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="08">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="24">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="24">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="24">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="24">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="08">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="5">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="02">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLDZI01" nazwa="Suchy Las Działki" ulica="Bogusławskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.486852" gps_e="16.879835">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

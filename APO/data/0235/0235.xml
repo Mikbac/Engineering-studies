@@ -1,0 +1,5423 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="235" typ="Linia autobusowa nocna" wazny_od="04.09.2018" wazny_do="">
+  <wariant id="1" nazwa="Os. Sobieskiego - Poznań Główny">
+   <przystanek id="SOB30" nazwa="Os. Sobieskiego" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.464863" gps_e="16.916478">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SO I02" nazwa="Os. Sobieskiego I" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.466032" gps_e="16.91031">
+    <tabliczka id="2" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="27">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OMII02" nazwa="Os. Marysieńki II" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.46542" gps_e="16.904849">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="28">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OM I02" nazwa="Os. Marysieńki I" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.461777" gps_e="16.903551">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WRTV02" nazwa="Wieża RTV" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.457422" gps_e="16.904244">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="00">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OJLY02" nazwa="Os. Jagiełły" ulica="Jaroczyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.453598" gps_e="16.90755">
+    <tabliczka id="6" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="01">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSCH02" nazwa="Os. Chrobrego" ulica="Jaroczyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.451601" gps_e="16.912095">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="02">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SUSZ02" nazwa="Suszki" ulica="Witosa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.446201" gps_e="16.914161">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WLOA02" nazwa="Włościańska" ulica="Wojciechowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.444059" gps_e="16.913438">
+    <tabliczka id="9" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UMUL02" nazwa="Umultowska" ulica="Połabska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.442916" gps_e="16.92917">
+    <tabliczka id="10" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PSAM02" nazwa="Połabska SAM" ulica="Połabska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.439082" gps_e="16.930483">
+    <tabliczka id="11" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POLA01" nazwa="Połabska" ulica="Aleje Solidarności" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.435662" gps_e="16.929701">
+    <tabliczka id="12" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSZW01" nazwa="Os. Zwycięstwa" ulica="Aleje Solidarności" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.435851" gps_e="16.925466">
+    <tabliczka id="13" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WYLO02" nazwa="Wyłom" ulica="Księcia Mieszka I" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.432529" gps_e="16.920138">
+    <tabliczka id="14" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KSMI02" nazwa="Księcia Mieszka I" ulica="Księcia Mieszka I" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.429387" gps_e="16.920183">
+    <tabliczka id="15" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKA02" nazwa="Słowiańska" ulica="Księcia Mieszka I" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.426731" gps_e="16.92002">
+    <tabliczka id="16" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URBA02" nazwa="Urbanowska" ulica="Księcia Mieszka I" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.421013" gps_e="16.920271">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRNZ04" nazwa="Przepadek" ulica="Przepadek" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.419113" gps_e="16.923267">
+    <tabliczka id="18" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URMA02" nazwa="Urząd Marszałkowski" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.415448" gps_e="16.926277">
+    <tabliczka id="19" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LIBE02" nazwa="Libelta" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.413079" gps_e="16.920212">
+    <tabliczka id="20" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZAME33" nazwa="Zamek" ulica="Święty Marcin" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407504" gps_e="16.916877">
+    <tabliczka id="21" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP05" nazwa="Rondo Kaponiera" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407026" gps_e="16.913291">
+    <tabliczka id="22" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POGL01" nazwa="Poznań Główny" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402558" gps_e="16.911667">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Poznań Główny - Os. Sobieskiego">
+   <przystanek id="POGL02" nazwa="Poznań Główny" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402522" gps_e="16.91211">
+    <tabliczka id="23" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="25">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP06" nazwa="Rondo Kaponiera" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.406837" gps_e="16.913246">
+    <tabliczka id="24" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZAME01" nazwa="Zamek" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408197" gps_e="16.917733">
+    <tabliczka id="25" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URWO01" nazwa="Urząd Wojewódzki" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41126" gps_e="16.918987">
+    <tabliczka id="26" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URMA01" nazwa="Urząd Marszałkowski" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.415268" gps_e="16.926705">
+    <tabliczka id="27" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ARPO01" nazwa="Armii Poznań" ulica="Księcia Mieszka I" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.421256" gps_e="16.922898">
+    <tabliczka id="28" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKA01" nazwa="Słowiańska" ulica="Księcia Mieszka I" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.427649" gps_e="16.920463">
+    <tabliczka id="29" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KSMI01" nazwa="Księcia Mieszka I" ulica="Księcia Mieszka I" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.430098" gps_e="16.920153">
+    <tabliczka id="30" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WYLO01" nazwa="Wyłom" ulica="Księcia Mieszka I" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.433249" gps_e="16.920419">
+    <tabliczka id="31" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSZW02" nazwa="Os. Zwycięstwa" ulica="Aleje Solidarności" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.435598" gps_e="16.92641">
+    <tabliczka id="32" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POLA03" nazwa="Połabska" ulica="Połabska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43613" gps_e="16.930778">
+    <tabliczka id="33" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PSAM01" nazwa="Połabska SAM" ulica="Połabska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.438479" gps_e="16.930941">
+    <tabliczka id="34" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UMUL05" nazwa="Umultowska" ulica="Połabska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.442619" gps_e="16.929303">
+    <tabliczka id="35" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UMUL03" nazwa="Umultowska" ulica="Lechicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.443204" gps_e="16.928329">
+    <tabliczka id="36" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WLOA01" nazwa="Włościańska" ulica="Wojciechowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.444716" gps_e="16.913852">
+    <tabliczka id="37" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SUSZ01" nazwa="Suszki" ulica="Wojciechowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.44684" gps_e="16.913925">
+    <tabliczka id="38" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSCH01" nazwa="Os. Chrobrego" ulica="Jaroczyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.452348" gps_e="16.911815">
+    <tabliczka id="39" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OJLY01" nazwa="Os. Jagiełły" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.455263" gps_e="16.904318">
+    <tabliczka id="40" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WRTV01" nazwa="Wieża RTV" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.458169" gps_e="16.904259">
+    <tabliczka id="41" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSZY01" nazwa="Os. Zygmunta Starego" ulica="Szymanowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460194" gps_e="16.909631">
+    <tabliczka id="42" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="18">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYM08" nazwa="Szymanowskiego" ulica="Szymanowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460266" gps_e="16.915844">
+    <tabliczka id="43" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="19">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZLI01" nazwa="Szeligowskiego" ulica="Szeligowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.462785" gps_e="16.917836">
+    <tabliczka id="44" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOB21" nazwa="Os. Sobieskiego" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.464656" gps_e="16.917452">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

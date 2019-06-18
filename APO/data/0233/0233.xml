@@ -1,0 +1,5569 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="233" typ="Linia autobusowa nocna" wazny_od="01.10.2017" wazny_do="">
+  <wariant id="1" nazwa="Mogileńska - Rondo Kaponiera">
+   <przystanek id="MOGI02" nazwa="Mogileńska" ulica="Pusta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409621" gps_e="16.992495">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LOMZ02" nazwa="Łomżyńska" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409864" gps_e="16.985721">
+    <tabliczka id="2" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TERM02" nazwa="Termalna" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409395" gps_e="16.972897">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROSR30" nazwa="Rondo Śródka" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409522" gps_e="16.954479">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KATE02" nazwa="Katedra" ulica="Wyszyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410287" gps_e="16.947868">
+    <tabliczka id="5" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MAGA04" nazwa="Małe Garbary" ulica="Małe Garbary" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41126" gps_e="16.936888">
+    <tabliczka id="6" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOLN02" nazwa="Solna" ulica="Solna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411854" gps_e="16.929214">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LIBE02" nazwa="Libelta" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.413079" gps_e="16.920212">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZAME33" nazwa="Zamek" ulica="Święty Marcin" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407504" gps_e="16.916877">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP72" nazwa="Rondo Kaponiera" ulica="Roosevelta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408531" gps_e="16.912656">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Rondo Kaponiera - Mogileńska">
+   <przystanek id="RKAP72" nazwa="Rondo Kaponiera" ulica="Roosevelta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408531" gps_e="16.912656">
+    <tabliczka id="15" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="00" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="00" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="00">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="00" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT43" nazwa="Most Teatralny" ulica="Fredry" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41044" gps_e="16.914117">
+    <tabliczka id="16" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="01" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="01" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="01">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="01" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URWO01" nazwa="Urząd Wojewódzki" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41126" gps_e="16.918987">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="02" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="02" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="02">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="02" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOLN01" nazwa="Solna" ulica="Solna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411737" gps_e="16.928521">
+    <tabliczka id="18" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="04" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="04" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="04" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MAGA03" nazwa="Małe Garbary" ulica="Estkowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41071" gps_e="16.939043">
+    <tabliczka id="19" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="06" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="06" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="06" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KATE01" nazwa="Katedra" ulica="Wyszyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.40999" gps_e="16.948148">
+    <tabliczka id="20" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="08" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="08" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="08" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROSR30" nazwa="Rondo Śródka" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409522" gps_e="16.954479">
+    <tabliczka id="4" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TERM01" nazwa="Termalna" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409179" gps_e="16.971982">
+    <tabliczka id="21" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="11" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="11" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="11" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LOMZ01" nazwa="Łomżyńska" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409657" gps_e="16.984776">
+    <tabliczka id="22" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="12" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="12" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="12" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MOGI02" nazwa="Mogileńska" ulica="Pusta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409621" gps_e="16.992495">
+   </przystanek>
+  </wariant>
+  <wariant id="3" nazwa="Górska - Rondo Kaponiera">
+   <przystanek id="GORS92" nazwa="Górska" ulica="Smołdzinowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.415502" gps_e="17.041608">
+    <tabliczka id="10" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SMOL02" nazwa="Smołdzinowska" ulica="Smołdzinowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409648" gps_e="17.034258">
+    <tabliczka id="11" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ANST02" nazwa="Antoninek Stacja" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409522" gps_e="17.02961">
+    <tabliczka id="12" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MILO02" nazwa="Miłostowo" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41053" gps_e="17.004714">
+    <tabliczka id="13" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PUST02" nazwa="Pusta" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410197" gps_e="16.99549">
+    <tabliczka id="14" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MOGI02" nazwa="Mogileńska" ulica="Pusta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409621" gps_e="16.992495">
+    <tabliczka id="1" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LOMZ02" nazwa="Łomżyńska" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409864" gps_e="16.985721">
+    <tabliczka id="2" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TERM02" nazwa="Termalna" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409395" gps_e="16.972897">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROSR30" nazwa="Rondo Śródka" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409522" gps_e="16.954479">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KATE02" nazwa="Katedra" ulica="Wyszyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410287" gps_e="16.947868">
+    <tabliczka id="5" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MAGA04" nazwa="Małe Garbary" ulica="Małe Garbary" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41126" gps_e="16.936888">
+    <tabliczka id="6" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOLN02" nazwa="Solna" ulica="Solna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411854" gps_e="16.929214">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="15">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LIBE02" nazwa="Libelta" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.413079" gps_e="16.920212">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZAME33" nazwa="Zamek" ulica="Święty Marcin" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407504" gps_e="16.916877">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="17">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP72" nazwa="Rondo Kaponiera" ulica="Roosevelta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408531" gps_e="16.912656">
+   </przystanek>
+  </wariant>
+  <wariant id="4" nazwa="Rondo Kaponiera - Górska">
+   <przystanek id="RKAP72" nazwa="Rondo Kaponiera" ulica="Roosevelta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408531" gps_e="16.912656">
+    <tabliczka id="15" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="00" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="00" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="00">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="00" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+       <min m="30" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT43" nazwa="Most Teatralny" ulica="Fredry" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41044" gps_e="16.914117">
+    <tabliczka id="16" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="01" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="01" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="01">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="01" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+       <min m="31" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URWO01" nazwa="Urząd Wojewódzki" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41126" gps_e="16.918987">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="02" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="02" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="02">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="02" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+       <min m="32" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOLN01" nazwa="Solna" ulica="Solna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411737" gps_e="16.928521">
+    <tabliczka id="18" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="04" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="04" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="04" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+       <min m="34" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MAGA03" nazwa="Małe Garbary" ulica="Estkowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41071" gps_e="16.939043">
+    <tabliczka id="19" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="06" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="06" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="06" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+       <min m="36" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KATE01" nazwa="Katedra" ulica="Wyszyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.40999" gps_e="16.948148">
+    <tabliczka id="20" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="08" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="08" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="08" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+       <min m="38" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROSR30" nazwa="Rondo Śródka" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409522" gps_e="16.954479">
+    <tabliczka id="4" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+       <min m="10" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+       <min m="10">
+       </min>
+       <min m="40">
+       </min>
+       <min m="40" ozn="A" przyp="A - Kurs do: Mogileńska">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TERM01" nazwa="Termalna" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409179" gps_e="16.971982">
+    <tabliczka id="21" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="11" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="11" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="11" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+       <min m="41" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LOMZ01" nazwa="Łomżyńska" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409657" gps_e="16.984776">
+    <tabliczka id="22" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="12" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="12" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="12" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+       <min m="42" ozn="Z" przyp="Z -  kurs wydłużony do Zielińca">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PUST01" nazwa="Pusta" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410008" gps_e="16.99493">
+    <tabliczka id="23" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MILO01" nazwa="Miłostowo" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410305" gps_e="17.003961">
+    <tabliczka id="24" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BONY01" nazwa="Bożeny" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410746" gps_e="17.01593">
+    <tabliczka id="25" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ANST01" nazwa="Antoninek Stacja" ulica="Warszawska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409549" gps_e="17.028828">
+    <tabliczka id="26" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SMOL01" nazwa="Smołdzinowska" ulica="Smołdzinowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410143" gps_e="17.034627">
+    <tabliczka id="27" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GORS92" nazwa="Górska" ulica="Smołdzinowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.415502" gps_e="17.041608">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

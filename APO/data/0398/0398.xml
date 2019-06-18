@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="398" typ="Linia autobusowa podmiejska" wazny_od="03.09.2018" wazny_do="">
+  <wariant id="1" nazwa="Koziegłowy Piaskowa Szkoła - Dębogóra Dąbrówki">
+   <przystanek id="KZSZK02" nazwa="Koziegłowy Piaskowa Szkoła" ulica="Piaskowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.445616" gps_e="16.991004">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="13">
+       <min m="40" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="45" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KZKRO02" nazwa="Koziegłowy Krótka" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.447326" gps_e="16.996641">
+    <tabliczka id="2" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="13">
+       <min m="42" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="47" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="42" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KZDZI02" nazwa="Koziegłowy Działki" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.450314" gps_e="17.004522">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCJON02" nazwa="Kicin Jonschera" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.457665" gps_e="17.016889">
+    <tabliczka id="4" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="45" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="45" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCSZK02" nazwa="Kicin Szkoła" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.463333" gps_e="17.018763">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="04" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="51" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCPET02" nazwa="Kicin Pętla" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.465537" gps_e="17.021213">
+    <tabliczka id="6" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="05" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="47" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCROL02" nazwa="Kicin Rolna" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.469693" gps_e="17.025655">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="06" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYTRA02" nazwa="Kliny Trakt" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.476304" gps_e="17.03507">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="07" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="49" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="49" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYORL02" nazwa="Kliny Orla" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.478363" gps_e="17.041873">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="08" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYCME02" nazwa="Kliny Cmentarz Ewangelicki" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.486124" gps_e="17.057059">
+    <tabliczka id="10" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="10" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="57" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYBRZ02" nazwa="Kliny Brzozowa" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.489891" gps_e="17.059892">
+    <tabliczka id="11" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="11" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="53" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="58" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="53" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MELAK02" nazwa="Mielno Łąkowa" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.49177" gps_e="17.067315">
+    <tabliczka id="12" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MELIS02" nazwa="Mielno Lisia" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.490035" gps_e="17.070695">
+    <tabliczka id="13" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WEJWO02" nazwa="Wierzonka Jednostka Wojskowa" ulica="Gminna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.485512" gps_e="17.08011">
+    <tabliczka id="14" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WEPET01" nazwa="Wierzonka Pętla" ulica="Gminna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.477968" gps_e="17.094912">
+    <tabliczka id="15" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="32" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="56" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="17" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="56" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WESZK02" nazwa="Wierzonka Szkoła" ulica="Karłowicka" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.487481" gps_e="17.091931">
+    <tabliczka id="16" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="58" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="58" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DEKAS04" nazwa="Dębogóra Kasztanowa" ulica="Kasztanowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.491509" gps_e="17.095827">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="17" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="59" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DELES02" nazwa="Dębogóra Leśna" ulica="Leśna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.497452" gps_e="17.092108">
+    <tabliczka id="18" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DEDAB01" nazwa="Dębogóra Dąbrówki" ulica="Dębowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.498746" gps_e="17.082073">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Dębogóra Dąbrówki - Koziegłowy Piaskowa Szkoła">
+   <przystanek id="DEDAB01" nazwa="Dębogóra Dąbrówki" ulica="Dębowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.498746" gps_e="17.082073">
+    <tabliczka id="20" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="25" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="10" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DELES01" nazwa="Dębogóra Leśna" ulica="Leśna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.497344" gps_e="17.092329">
+    <tabliczka id="21" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DEKAS01" nazwa="Dębogóra Kasztanowa" ulica="Kasztanowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.49097" gps_e="17.095561">
+    <tabliczka id="22" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="09" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WESZK01" nazwa="Wierzonka Szkoła" ulica="Karłowicka" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.487985" gps_e="17.091651">
+    <tabliczka id="23" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="30" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WEPET01" nazwa="Wierzonka Pętla" ulica="Gminna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.477968" gps_e="17.094912">
+    <tabliczka id="15" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="32" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="56" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="17" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="56" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WEJWO01" nazwa="Wierzonka Jednostka Wojskowa" ulica="Gminna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.485018" gps_e="17.081143">
+    <tabliczka id="24" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="18" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="18" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MELIS01" nazwa="Mielno Lisia" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.489891" gps_e="17.07099">
+    <tabliczka id="25" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="34" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MELAK01" nazwa="Mielno Łąkowa" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.492058" gps_e="17.066858">
+    <tabliczka id="26" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="34" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYBRZ01" nazwa="Kliny Brzozowa" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.489432" gps_e="17.05942">
+    <tabliczka id="27" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="35" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYCME01" nazwa="Kliny Cmentarz Ewangelicki" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.485485" gps_e="17.056601">
+    <tabliczka id="28" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYORL01" nazwa="Kliny Orla" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.478139" gps_e="17.041327">
+    <tabliczka id="29" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="38" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="18" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="23" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYTRA01" nazwa="Kliny Trakt" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.475773" gps_e="17.033314">
+    <tabliczka id="30" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="39" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCROL01" nazwa="Kicin Rolna" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.470017" gps_e="17.025906">
+    <tabliczka id="31" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="40" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCPET01" nazwa="Kicin Pętla" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.465537" gps_e="17.020563">
+    <tabliczka id="32" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="42" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="27" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCSZK01" nazwa="Kicin Szkoła" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.462884" gps_e="17.018483">
+    <tabliczka id="33" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCJON01" nazwa="Kicin Jonschera" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.45753" gps_e="17.016712">
+    <tabliczka id="34" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="44" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="24" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KZDZI01" nazwa="Koziegłowy Działki" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.449612" gps_e="17.003031">
+    <tabliczka id="35" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="26" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KZKRO01" nazwa="Koziegłowy Krótka" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.447092" gps_e="16.995653">
+    <tabliczka id="36" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="47" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KZSZK02" nazwa="Koziegłowy Piaskowa Szkoła" ulica="Piaskowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.445616" gps_e="16.991004">
+   </przystanek>
+  </wariant>
+  <wariant id="3" nazwa="Koziegłowy Taczaka I - Dębogóra Dąbrówki">
+   <przystanek id="KZTJE01" nazwa="Koziegłowy Taczaka I" ulica="Taczaka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.447515" gps_e="17.001054">
+    <tabliczka id="19" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="00" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KZDZI02" nazwa="Koziegłowy Działki" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.450314" gps_e="17.004522">
+    <tabliczka id="3" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCJON02" nazwa="Kicin Jonschera" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.457665" gps_e="17.016889">
+    <tabliczka id="4" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="45" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="45" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCSZK02" nazwa="Kicin Szkoła" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.463333" gps_e="17.018763">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="04" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="51" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCPET02" nazwa="Kicin Pętla" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.465537" gps_e="17.021213">
+    <tabliczka id="6" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="05" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="47" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KCROL02" nazwa="Kicin Rolna" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.469693" gps_e="17.025655">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="06" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="48" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYTRA02" nazwa="Kliny Trakt" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.476304" gps_e="17.03507">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="07" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="49" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="49" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYORL02" nazwa="Kliny Orla" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.478363" gps_e="17.041873">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="08" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYCME02" nazwa="Kliny Cmentarz Ewangelicki" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.486124" gps_e="17.057059">
+    <tabliczka id="10" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="10" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="57" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KYBRZ02" nazwa="Kliny Brzozowa" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.489891" gps_e="17.059892">
+    <tabliczka id="11" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="11" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="53" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="58" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="53" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MELAK02" nazwa="Mielno Łąkowa" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.49177" gps_e="17.067315">
+    <tabliczka id="12" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MELIS02" nazwa="Mielno Lisia" ulica="Poznańska" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.490035" gps_e="17.070695">
+    <tabliczka id="13" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="54" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WEJWO02" nazwa="Wierzonka Jednostka Wojskowa" ulica="Gminna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.485512" gps_e="17.08011">
+    <tabliczka id="14" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WEPET01" nazwa="Wierzonka Pętla" ulica="Gminna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.477968" gps_e="17.094912">
+    <tabliczka id="15" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="32" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="56" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="17" ozn="AS" przyp="A - Kurs do: Koziegłowy/Piaskowa Szkoła; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="56" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17" ozn="KS" przyp="K -  Kurs skrócony do przystanku Koziegłowy/Działki; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WESZK02" nazwa="Wierzonka Szkoła" ulica="Karłowicka" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.487481" gps_e="17.091931">
+    <tabliczka id="16" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="58" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="58" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DEKAS04" nazwa="Dębogóra Kasztanowa" ulica="Kasztanowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.491509" gps_e="17.095827">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="17" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="59" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="59" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DELES02" nazwa="Dębogóra Leśna" ulica="Leśna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.497452" gps_e="17.092108">
+    <tabliczka id="18" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="DEDAB01" nazwa="Dębogóra Dąbrówki" ulica="Dębowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.498746" gps_e="17.082073">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

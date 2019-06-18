@@ -1,0 +1,3781 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="246" typ="Linia autobusowa nocna" wazny_od="03.09.2018" wazny_do="">
+  <wariant id="1" nazwa="Poznań Główny - Poznań Główny">
+   <przystanek id="POGL02" nazwa="Poznań Główny" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402522" gps_e="16.91211">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP06" nazwa="Rondo Kaponiera" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.406837" gps_e="16.913246">
+    <tabliczka id="2" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="29" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP72" nazwa="Rondo Kaponiera" ulica="Roosevelta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.408531" gps_e="16.912656">
+    <tabliczka id="3" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT72" nazwa="Most Teatralny" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410674" gps_e="16.9127">
+    <tabliczka id="4" mc="0">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="30" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RJEZ73" nazwa="Rynek Jeżycki" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.412431" gps_e="16.905041">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="31" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOSC02" nazwa="Kościelna" ulica="Kościelna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.413539" gps_e="16.904495">
+    <tabliczka id="6" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="32" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="JEZY02" nazwa="Jeżycka" ulica="Kościelna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.416303" gps_e="16.906502">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="33" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NADW02" nazwa="Nad Wierzbakiem" ulica="Nad Wierzbakiem" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.421175" gps_e="16.908568">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="34" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLAS01" nazwa="Śląska" ulica="Wojska Polskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.4243" gps_e="16.908878">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="35" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="35" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UP01" nazwa="Uniwersytet Przyrodniczy" ulica="Wojska Polskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.425993" gps_e="16.904879">
+    <tabliczka id="10" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="36" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="36" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WOPO03" nazwa="Wojska Polskiego" ulica="Wojska Polskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.428297" gps_e="16.897633">
+    <tabliczka id="11" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="38" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GOLE01" nazwa="Golęcin" ulica="Wojska Polskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.430638" gps_e="16.890874">
+    <tabliczka id="12" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GOKA01" nazwa="Golęcińska" ulica="Golęcińska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.43207" gps_e="16.88413">
+    <tabliczka id="13" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="40" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LINZ01" nazwa="Literacka I" ulica="Koszalińska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.440243" gps_e="16.871866">
+    <tabliczka id="14" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="41" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="HEZJ01" nazwa="Hezjoda" ulica="Literacka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.445364" gps_e="16.874434">
+    <tabliczka id="15" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="42" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LITE02" nazwa="Literacka" ulica="Literacka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.446849" gps_e="16.874272">
+    <tabliczka id="16" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="43" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="HEZJ02" nazwa="Hezjoda" ulica="Literacka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.444869" gps_e="16.874109">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="44" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KODZ01" nazwa="Koszalińska Działki" ulica="Koszalińska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.440774" gps_e="16.867144">
+    <tabliczka id="18" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="45" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="45" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SNZ01" nazwa="Strzeszyn I" ulica="Koszalińska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.446327" gps_e="16.856636">
+    <tabliczka id="19" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="45" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="45" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SZYN04" nazwa="Strzeszyn" ulica="Biskupińska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.452006" gps_e="16.848918">
+    <tabliczka id="20" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="47" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="47" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="INMR02" nazwa="Instytut MR" ulica="Biskupińska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.455848" gps_e="16.855279">
+    <tabliczka id="21" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="49" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="49" ozn="P" przyp="P -  kurs skrócony do Podolan">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PODO04" nazwa="Podolany" ulica="Zakopiańska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.461309" gps_e="16.866494">
+    <tabliczka id="22" mc="2" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MORS02" nazwa="Morszyńska" ulica="Zakopiańska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.458232" gps_e="16.872029">
+    <tabliczka id="23" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOSO01" nazwa="Kosowska" ulica="Kosowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.456208" gps_e="16.877518">
+    <tabliczka id="24" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BIAL02" nazwa="Białczańska" ulica="Strzeszyńska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.457297" gps_e="16.878994">
+    <tabliczka id="25" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RZEP02" nazwa="Rzepeckiej" ulica="Strzeszyńska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.454975" gps_e="16.882846">
+    <tabliczka id="26" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TULO02" nazwa="Tułodzieckiej" ulica="Strzeszyńska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.451925" gps_e="16.887849">
+    <tabliczka id="27" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STII02" nazwa="Strzeszyńska II" ulica="Strzeszyńska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.448973" gps_e="16.894667">
+    <tabliczka id="28" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STNZ02" nazwa="Strzeszyńska" ulica="Strzeszyńska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.445373" gps_e="16.900629">
+    <tabliczka id="29" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ST I02" nazwa="Strzeszyńska I" ulica="Strzeszyńska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.443168" gps_e="16.904112">
+    <tabliczka id="30" mc="0" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROOB01" nazwa="Rondo Obornicka" ulica="Lutycka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.44279" gps_e="16.906768">
+    <tabliczka id="31" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PIAT02" nazwa="Piątkowska" ulica="Piątkowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.441386" gps_e="16.912361">
+    <tabliczka id="32" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="23">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="59">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TROJ02" nazwa="Trójpole" ulica="Piątkowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.436598" gps_e="16.911918">
+    <tabliczka id="33" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="00">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WINI01" nazwa="Os. Winiary" ulica="Aleje Solidarności" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.435283" gps_e="16.910561">
+    <tabliczka id="34" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="01">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WIWI02" nazwa="Witosa Wiadukt" ulica="Witosa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.434149" gps_e="16.905484">
+    <tabliczka id="35" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="02">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WIKL02" nazwa="Witosa Kładka" ulica="Witosa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.430494" gps_e="16.902459">
+    <tabliczka id="36" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="03">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WOPO04" nazwa="Wojska Polskiego" ulica="Wojska Polskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.427676" gps_e="16.900643">
+    <tabliczka id="37" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="04">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="UP02" nazwa="Uniwersytet Przyrodniczy" ulica="Wojska Polskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.426272" gps_e="16.90423">
+    <tabliczka id="38" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="05">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLAS02" nazwa="Śląska" ulica="Wojska Polskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.424606" gps_e="16.90814">
+    <tabliczka id="39" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="06">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NADW01" nazwa="Nad Wierzbakiem" ulica="Nad Wierzbakiem" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.420869" gps_e="16.908495">
+    <tabliczka id="40" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="07">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="JEZY01" nazwa="Jeżycka" ulica="Kościelna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.415502" gps_e="16.905513">
+    <tabliczka id="41" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="08">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOSC01" nazwa="Kościelna" ulica="Kościelna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41325" gps_e="16.903728">
+    <tabliczka id="42" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="09">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RJEZ74" nazwa="Rynek Jeżycki" ulica="Dąbrowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.412287" gps_e="16.90572">
+    <tabliczka id="43" mc="1" cechy="nz">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="10">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT02" nazwa="Most Teatralny" ulica="Roosevelta" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.410044" gps_e="16.913069">
+    <tabliczka id="44" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="11">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP05" nazwa="Rondo Kaponiera" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407026" gps_e="16.913291">
+    <tabliczka id="45" mc="1">
+     <dzien nazwa="NOC PT/SOB">
+      <godz h="24">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NOC SOB/ND">
+      <godz h="24">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="29">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="30">
+       <min m="12">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="POZOSTAŁE NOCE">
+      <godz h="24">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="POGL01" nazwa="Poznań Główny" ulica="Dworcowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402558" gps_e="16.911667">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

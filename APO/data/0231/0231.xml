@@ -1,0 +1,1283 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="231" typ="Linia autobusowa nocna" wazny_od="20.08.2018" wazny_do="">
+  <wariant id="1" nazwa="Starołęka - Rondo Kaponiera" obj="nowy objazd">
+   <przystanek id="STAR02" nazwa="Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.368817" gps_e="16.933095">
+    <tabliczka id="11" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="22">
+       <min m="56" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="26" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="56" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="26" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="56" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="26" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="56" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="26" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="56" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="26" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="56" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYST02" nazwa="Bystra" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.37053" gps_e="16.933759">
+    <tabliczka id="12" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="22">
+       <min m="57" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="27" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="57" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="27" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="57" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="27" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="57" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="27" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="57" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="27" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="57" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOM02" nazwa="Stomil" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.375993" gps_e="16.939618">
+    <tabliczka id="13" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="22">
+       <min m="58" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="28" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="58" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="28" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="58" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="28" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="58" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="28" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="58" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="28" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="58" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA02" nazwa="Rondo Starołęka" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.381221" gps_e="16.943706">
+    <tabliczka id="14" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="22">
+       <min m="59" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="29" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="59" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="29" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="59" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="29" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="59" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="29" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="59" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="29" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="59" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ORZE02" nazwa="Os. Rzeczypospolitej" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.386268" gps_e="16.94558">
+    <tabliczka id="15" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OPIA02" nazwa="Os. Piastowskie" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.391413" gps_e="16.94806">
+    <tabliczka id="16" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT02" nazwa="Rondo Rataje" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.394333" gps_e="16.949742">
+    <tabliczka id="17" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT04" nazwa="Rondo Rataje" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.396648" gps_e="16.951203">
+    <tabliczka id="2" mc="3">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PP72" nazwa="Politechnika" ulica="Kórnicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.400549" gps_e="16.948915">
+    <tabliczka id="3" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="03" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="33" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="03" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="33" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="03" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="33" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="03" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="33" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="03" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="33" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="03" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MORO72" nazwa="Most Św. Rocha" ulica="Mostowa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.402775" gps_e="16.94167">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PLBE72" nazwa="Pl. Bernardyński" ulica="Podgórna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.404378" gps_e="16.936519">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="05" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="35" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="05" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="35" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="05" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="35" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="05" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="35" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="05" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="35" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="05" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WROC72" nazwa="Wrocławska" ulica="Podgórna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.405648" gps_e="16.93187">
+    <tabliczka id="6" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MRCI72" nazwa="Marcinkowskiego" ulica="al. Marcinkowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407117" gps_e="16.928653">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="07" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="37" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="07" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="37" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="07" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="37" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="07" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="37" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="07" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="37" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="07" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PLWO41" nazwa="Pl. Wolności" ulica="pl. Wolności" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407837" gps_e="16.926086">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GWAR02" nazwa="Gwarna" ulica="Gwarna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407234" gps_e="16.920596">
+    <tabliczka id="9" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="09" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="39" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="09" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="39" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="09" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="39" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="09" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="39" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="09" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="39" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="09" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZAME33" nazwa="Zamek" ulica="Święty Marcin" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407504" gps_e="16.916877">
+    <tabliczka id="10" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKAP74" nazwa="Rondo Kaponiera" ulica="Święty Marcin" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407693" gps_e="16.913261">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Rondo Kaponiera - Starołęka" obj="nowy przez R. Śródka">
+   <przystanek id="RKAP74" nazwa="Rondo Kaponiera" ulica="Święty Marcin" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.407693" gps_e="16.913261">
+    <tabliczka id="19" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="00" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="30" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MT43" nazwa="Most Teatralny" ulica="Fredry" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41044" gps_e="16.914117">
+    <tabliczka id="18" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="01" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="31" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URWO01" nazwa="Urząd Wojewódzki" ulica="al. Niepodległości" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41126" gps_e="16.918987">
+    <tabliczka id="20" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="02" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="32" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOLN01" nazwa="Solna" ulica="Solna" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.411737" gps_e="16.928521">
+    <tabliczka id="21" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="04" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="34" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MAGA03" nazwa="Małe Garbary" ulica="Estkowskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.41071" gps_e="16.939043">
+    <tabliczka id="22" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="06" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="36" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KATE01" nazwa="Katedra" ulica="Wyszyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.40999" gps_e="16.948148">
+    <tabliczka id="23" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="08" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="38" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ROSR04" nazwa="Rondo Śródka" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.409422" gps_e="16.955852">
+    <tabliczka id="24" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="10" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="40" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BAKA03" nazwa="Baraniaka" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.403135" gps_e="16.954199">
+    <tabliczka id="25" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="11" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="41" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="11" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="41" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="11" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="41" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="11" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="41" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="11" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="41" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="11" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="41" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT03" nazwa="Rondo Rataje" ulica="Jana Pawła II" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.396721" gps_e="16.950701">
+    <tabliczka id="1" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="13" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="43" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="13" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="43" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="13" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="43" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="13" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="43" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="13" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="43" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="13" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="43" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RRAT01" nazwa="Rondo Rataje" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.394531" gps_e="16.949314">
+    <tabliczka id="26" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="14" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="44" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="14" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="44" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="14" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="44" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="14" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="44" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="14" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="44" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="14" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="44" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OPIA01" nazwa="Os. Piastowskie" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.391044" gps_e="16.947248">
+    <tabliczka id="27" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="16" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="46" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="16" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="46" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="16" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="46" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="16" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="46" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="16" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="46" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="16" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="46" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ORZE01" nazwa="Os. Rzeczypospolitej" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.385448" gps_e="16.944503">
+    <tabliczka id="28" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="18" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="48" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="18" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="48" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="18" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="48" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="18" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="48" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="18" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="48" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="18" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="48" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RSTA01" nazwa="Rondo Starołęka" ulica="Zamenhofa" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.381212" gps_e="16.943027">
+    <tabliczka id="29" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="19" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="49" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="19" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="49" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="19" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="49" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="19" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="49" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="19" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="49" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="19" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="49" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STOM01" nazwa="Stomil" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.376498" gps_e="16.94012">
+    <tabliczka id="30" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="20" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="50" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="20" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="50" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="20" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="50" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="20" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="50" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="20" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="50" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="20" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="50" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYST01" nazwa="Bystra" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.371333" gps_e="16.934571">
+    <tabliczka id="31" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="23">
+       <min m="21" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="51" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="24">
+       <min m="21" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="51" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="25">
+       <min m="21" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="51" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="26">
+       <min m="21" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="51" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="27">
+       <min m="21" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="51" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+      <godz h="28">
+       <min m="21" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+       <min m="51" ozn="P" przyp="P - kursuje tylko w nocy z poniedziałku na wtorek; ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="STAR02" nazwa="Starołęka" ulica="Starołęcka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.368817" gps_e="16.933095">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

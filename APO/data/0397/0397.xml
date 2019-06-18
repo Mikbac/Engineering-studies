@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="397" typ="Linia autobusowa podmiejska" wazny_od="01.10.2018" wazny_do="">
+  <wariant id="1" nazwa="Biedrusko Park - Trzaskowo Wieś" obj="B-P-T">
+   <przystanek id="BIPRK02" nazwa="Biedrusko Park" ulica="Zjednoczenia" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.545167" gps_e="16.946776">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="30" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="40" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="46" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="37" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRPLN01" nazwa="Promnice Północna" ulica="Wojska Polskiego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.541333" gps_e="16.965223">
+    <tabliczka id="2" mc="3">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="33" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="43" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="49" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRPLN06" nazwa="Promnice Północna" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.54233" gps_e="16.965636">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="44" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRISK02" nazwa="Promnice Klub Iskra" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.548256" gps_e="16.962596">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="45" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="39" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="30" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRKLO02" nazwa="Promnice Klonowa" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.552045" gps_e="16.961843">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="46" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRKLO01" nazwa="Promnice Klonowa" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.551928" gps_e="16.961784">
+    <tabliczka id="6" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="46" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRISK01" nazwa="Promnice Klub Iskra" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.548049" gps_e="16.96267">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="47" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="41" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRSOS01" nazwa="Promnice Sosnowa" ulica="Leśna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.544682" gps_e="16.966197">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="48" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOWOJ01" nazwa="Bolechowo-Os. Wojska Polskiego" ulica="Obornicka" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.54171" gps_e="16.972469">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="17" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="49" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOSZK01" nazwa="Bolechowo-Os. Szkoła" ulica="Wojska Polskiego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.540947" gps_e="16.973236">
+    <tabliczka id="10" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="34" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="50" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="41" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="44" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOSTA01" nazwa="Bolechowo-Os. Stacja" ulica="Kolejowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.540147" gps_e="16.978401">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="10" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="50" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="32" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="26" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="16" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOPAL02" nazwa="Bolechowo Pałac" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.544215" gps_e="16.990443">
+    <tabliczka id="12" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="55" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="19" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOKRE02" nazwa="Bolechowo Kręta" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.543254" gps_e="16.994708">
+    <tabliczka id="13" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="55" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="19" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TZWIE02" nazwa="Trzaskowo Wieś" ulica="Trzaskowo" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.534283" gps_e="17.019516">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Trzaskowo Wieś - Biedrusko Park" obj="T-P-B">
+   <przystanek id="TZWIE02" nazwa="Trzaskowo Wieś" ulica="Trzaskowo" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.534283" gps_e="17.019516">
+    <tabliczka id="15" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="04" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="26" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOKRE01" nazwa="Bolechowo Kręta" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.543407" gps_e="16.994177">
+    <tabliczka id="16" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="05" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="27" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOPAL01" nazwa="Bolechowo Pałac" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.544054" gps_e="16.990222">
+    <tabliczka id="17" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="06" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="28" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="22" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOPOL04" nazwa="Bolechowo Poligonowa" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.543228" gps_e="16.985839">
+    <tabliczka id="18" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="08" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="30" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOSTA01" nazwa="Bolechowo-Os. Stacja" ulica="Kolejowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.540147" gps_e="16.978401">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="10" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="50" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="32" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="26" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="16" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOSZK02" nazwa="Bolechowo-Os. Szkoła" ulica="Wojska Polskiego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.54127" gps_e="16.974845">
+    <tabliczka id="19" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="12" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="34" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOWOJ02" nazwa="Bolechowo-Os. Wojska Polskiego" ulica="Obornicka" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.541324" gps_e="16.972454">
+    <tabliczka id="20" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="14">
+       <min m="37" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRSOS02" nazwa="Promnice Sosnowa" ulica="Leśna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.54497" gps_e="16.965754">
+    <tabliczka id="21" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="14">
+       <min m="38" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRISK02" nazwa="Promnice Klub Iskra" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.548256" gps_e="16.962596">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="45" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="39" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="30" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRKLO02" nazwa="Promnice Klonowa" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.552045" gps_e="16.961843">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="46" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRKLO01" nazwa="Promnice Klonowa" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.551928" gps_e="16.961784">
+    <tabliczka id="6" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="46" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRISK01" nazwa="Promnice Klub Iskra" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.548049" gps_e="16.96267">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="47" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="41" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRPLN05" nazwa="Promnice Północna" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.541872" gps_e="16.965857">
+    <tabliczka id="22" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="14">
+       <min m="42" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRPLN02" nazwa="Promnice Północna" ulica="Wojska Polskiego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.541306" gps_e="16.965665">
+    <tabliczka id="23" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="53" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="35" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="42" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BIPRK02" nazwa="Biedrusko Park" ulica="Zjednoczenia" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.545167" gps_e="16.946776">
+   </przystanek>
+  </wariant>
+  <wariant id="3" nazwa="Biedrusko Park - Potasze Jodłowa" obj="B-P-T-P">
+   <przystanek id="BIPRK02" nazwa="Biedrusko Park" ulica="Zjednoczenia" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.545167" gps_e="16.946776">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="30" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="40" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="46" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="37" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRPLN01" nazwa="Promnice Północna" ulica="Wojska Polskiego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.541333" gps_e="16.965223">
+    <tabliczka id="2" mc="3">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="33" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="43" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="49" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRPLN06" nazwa="Promnice Północna" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.54233" gps_e="16.965636">
+    <tabliczka id="3" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="12" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="44" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRISK02" nazwa="Promnice Klub Iskra" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.548256" gps_e="16.962596">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="45" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="39" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="30" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRKLO02" nazwa="Promnice Klonowa" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.552045" gps_e="16.961843">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="46" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRKLO01" nazwa="Promnice Klonowa" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.551928" gps_e="16.961784">
+    <tabliczka id="6" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="46" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRISK01" nazwa="Promnice Klub Iskra" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.548049" gps_e="16.96267">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="47" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="41" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRSOS01" nazwa="Promnice Sosnowa" ulica="Leśna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.544682" gps_e="16.966197">
+    <tabliczka id="8" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="16" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="48" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOWOJ01" nazwa="Bolechowo-Os. Wojska Polskiego" ulica="Obornicka" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.54171" gps_e="16.972469">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="17" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="49" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOSZK01" nazwa="Bolechowo-Os. Szkoła" ulica="Wojska Polskiego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.540947" gps_e="16.973236">
+    <tabliczka id="10" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="34" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="50" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="41" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="44" ozn="BS" przyp="B -  Kurs z pominięciem Promnice/Klonowa, skrócony do Bolechowo/Stacja; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOSTA01" nazwa="Bolechowo-Os. Stacja" ulica="Kolejowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.540147" gps_e="16.978401">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="10" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="50" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="32" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="26" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="16" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOPAL02" nazwa="Bolechowo Pałac" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.544215" gps_e="16.990443">
+    <tabliczka id="12" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="55" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="19" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOKRE02" nazwa="Bolechowo Kręta" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.543254" gps_e="16.994708">
+    <tabliczka id="13" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="55" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="19" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TZWIE01" nazwa="Trzaskowo Wieś" ulica="Trzaskowo" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.533995" gps_e="17.020017">
+    <tabliczka id="14" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="57" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PTJOD01" nazwa="Potasze Jodłowa" ulica="Lipowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.524501" gps_e="17.029875">
+   </przystanek>
+  </wariant>
+  <wariant id="4" nazwa="Potasze Jodłowa - Biedrusko Park" obj="P-T-P-B">
+   <przystanek id="PTJOD01" nazwa="Potasze Jodłowa" ulica="Lipowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.524501" gps_e="17.029875">
+    <tabliczka id="24" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="00" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="24" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TZWIE02" nazwa="Trzaskowo Wieś" ulica="Trzaskowo" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.534283" gps_e="17.019516">
+    <tabliczka id="15" mc="4">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="04" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="26" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOKRE01" nazwa="Bolechowo Kręta" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.543407" gps_e="16.994177">
+    <tabliczka id="16" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="05" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="27" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="21" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOPAL01" nazwa="Bolechowo Pałac" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.544054" gps_e="16.990222">
+    <tabliczka id="17" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="06" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="28" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="22" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOPOL04" nazwa="Bolechowo Poligonowa" ulica="Poligonowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.543228" gps_e="16.985839">
+    <tabliczka id="18" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="08" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="30" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="23" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOSTA01" nazwa="Bolechowo-Os. Stacja" ulica="Kolejowa" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.540147" gps_e="16.978401">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="10" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="50" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="20" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="32" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="43" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="26" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="16" ozn="JS" przyp="J -  Kurs z pominięciem Promnice/Klonowa, wydłużony do Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOSZK02" nazwa="Bolechowo-Os. Szkoła" ulica="Wojska Polskiego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.54127" gps_e="16.974845">
+    <tabliczka id="19" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="12" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+       <min m="52" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="34" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="36" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="27" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="28" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02" ozn="KS" przyp="K -  Kurs z pominięciem przystanku: Promnice/Klonowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOWOJ02" nazwa="Bolechowo-Os. Wojska Polskiego" ulica="Obornicka" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.541324" gps_e="16.972454">
+    <tabliczka id="20" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="14">
+       <min m="37" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="28" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRSOS02" nazwa="Promnice Sosnowa" ulica="Leśna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.54497" gps_e="16.965754">
+    <tabliczka id="21" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="14">
+       <min m="38" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRISK02" nazwa="Promnice Klub Iskra" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.548256" gps_e="16.962596">
+    <tabliczka id="4" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="45" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="39" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="30" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRKLO02" nazwa="Promnice Klonowa" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.552045" gps_e="16.961843">
+    <tabliczka id="5" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="46" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRKLO01" nazwa="Promnice Klonowa" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.551928" gps_e="16.961784">
+    <tabliczka id="6" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="14" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="46" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRISK01" nazwa="Promnice Klub Iskra" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.548049" gps_e="16.96267">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="7">
+       <min m="15" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="47" ozn="PS" przyp="P -  Kurs wydłużony do przystanku: Potasze/Jodłowa; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="41" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32" ozn="AS" przyp="A - Kurs do: Biedrusko/Park; S - kurs wykonywany tylko w dni nauki szkolnej ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRPLN05" nazwa="Promnice Północna" ulica="Północna" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.541872" gps_e="16.965857">
+    <tabliczka id="22" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="14">
+       <min m="42" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PRPLN02" nazwa="Promnice Północna" ulica="Wojska Polskiego" strefa="C" nazwastrefy="strefa C" cechy="" gps_n="52.541306" gps_e="16.965665">
+    <tabliczka id="23" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="13" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+       <min m="53" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="35" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="42" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="33" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03" ozn="S" przyp="S - kurs wykonywany tylko w dni nauki szkolnej ; ">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BIPRK02" nazwa="Biedrusko Park" ulica="Zjednoczenia" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.545167" gps_e="16.946776">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

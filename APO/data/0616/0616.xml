@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="616" typ="Linia autobusowa podmiejska" wazny_od="03.09.2018" wazny_do="">
+  <wariant id="1" nazwa="Górczyn - Luboń Żabikowo">
+   <przystanek id="GORC30" nazwa="Górczyn" ulica="Zgoda" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.382068" gps_e="16.881754">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="04">
+       </min>
+       <min m="24">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="04">
+       </min>
+       <min m="24">
+       </min>
+       <min m="32">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="16">
+       </min>
+       <min m="22">
+       </min>
+       <min m="39">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+       <min m="39">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+       <min m="39">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOJA01" nazwa="Bojanowska" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.376363" gps_e="16.872324">
+    <tabliczka id="2" mc="3">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="07">
+       </min>
+       <min m="27">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07">
+       </min>
+       <min m="27">
+       </min>
+       <min m="35">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00">
+       </min>
+       <min m="19">
+       </min>
+       <min m="25">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+       <min m="22">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="22">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSIA01" nazwa="Ostatnia" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.372757" gps_e="16.864724">
+    <tabliczka id="3" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="29">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="09">
+       </min>
+       <min m="29">
+       </min>
+       <min m="37">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02">
+       </min>
+       <min m="21">
+       </min>
+       <min m="27">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+       <min m="24">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04">
+       </min>
+       <min m="24">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="WYKO01" nazwa="Wykopy" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.371243" gps_e="16.863558">
+    <tabliczka id="4" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="29">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="09">
+       </min>
+       <min m="29">
+       </min>
+       <min m="37">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="02">
+       </min>
+       <min m="21">
+       </min>
+       <min m="27">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+       <min m="24">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04">
+       </min>
+       <min m="24">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="FABI01" nazwa="Fabianowo" ulica="Lerczakówny" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.365238" gps_e="16.855943">
+    <tabliczka id="5" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="12">
+       </min>
+       <min m="32">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12">
+       </min>
+       <min m="32">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05">
+       </min>
+       <min m="24">
+       </min>
+       <min m="30">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07">
+       </min>
+       <min m="27">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+       <min m="27">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="FANZ01" nazwa="Fabianowo I" ulica="Lerczakówny" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.363606" gps_e="16.852534">
+    <tabliczka id="6" mc="0" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="12">
+       </min>
+       <min m="32">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12">
+       </min>
+       <min m="32">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06">
+       </min>
+       <min m="25">
+       </min>
+       <min m="31">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08">
+       </min>
+       <min m="28">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08">
+       </min>
+       <min m="28">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NOKO01" nazwa="Nowe Kotowo" ulica="Kowalewicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.360604" gps_e="16.855382">
+    <tabliczka id="7" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="14">
+       </min>
+       <min m="34">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="14">
+       </min>
+       <min m="34">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+       <min m="27">
+       </min>
+       <min m="33">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10">
+       </min>
+       <min m="30">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="10">
+       </min>
+       <min m="30">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOTO01" nazwa="Kotowo" ulica="Kotowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.358241" gps_e="16.854275">
+    <tabliczka id="8" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="15">
+       </min>
+       <min m="35">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+       <min m="35">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="09">
+       </min>
+       <min m="28">
+       </min>
+       <min m="34">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11">
+       </min>
+       <min m="31">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+       <min m="31">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URAD01" nazwa="Uradzka" ulica="Kotowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.355797" gps_e="16.859116">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="16">
+       </min>
+       <min m="36">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16">
+       </min>
+       <min m="36">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="10">
+       </min>
+       <min m="29">
+       </min>
+       <min m="35">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12">
+       </min>
+       <min m="32">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12">
+       </min>
+       <min m="32">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LUUNI02" nazwa="Luboń Unijna" ulica="Poniatowskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.352208" gps_e="16.865506">
+    <tabliczka id="10" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="17">
+       </min>
+       <min m="37">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17">
+       </min>
+       <min m="37">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11">
+       </min>
+       <min m="30">
+       </min>
+       <min m="36">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13">
+       </min>
+       <min m="33">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="13">
+       </min>
+       <min m="33">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LUPBO02" nazwa="Luboń Pl. Bojanowskiego" ulica="Poniatowskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.349746" gps_e="16.861492">
+    <tabliczka id="11" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="6">
+       <min m="18">
+       </min>
+       <min m="38">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18">
+       </min>
+       <min m="38">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+       <min m="31">
+       </min>
+       <min m="37">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="14">
+       </min>
+       <min m="34">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14">
+       </min>
+       <min m="34">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LUZAB02" nazwa="Luboń Żabikowo" ulica="Poniatowskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.344929" gps_e="16.854187">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Luboń Żabikowo - Górczyn">
+   <przystanek id="LUZAB01" nazwa="Luboń Żabikowo" ulica="Poniatowskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.34501" gps_e="16.854393">
+    <tabliczka id="12" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="03">
+       </min>
+       <min m="23">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="02">
+       </min>
+       <min m="22">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="29">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03">
+       </min>
+       <min m="16">
+       </min>
+       <min m="36">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+       <min m="39">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LUPBO01" nazwa="Luboń Pl. Bojanowskiego" ulica="Poniatowskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.349376" gps_e="16.860887">
+    <tabliczka id="13" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="04">
+       </min>
+       <min m="24">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03">
+       </min>
+       <min m="23">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="30">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+       <min m="17">
+       </min>
+       <min m="37">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+       <min m="20">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LUUNI01" nazwa="Luboń Unijna" ulica="Poniatowskiego" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.352082" gps_e="16.865284">
+    <tabliczka id="14" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="06">
+       </min>
+       <min m="26">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="05">
+       </min>
+       <min m="25">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="32">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06">
+       </min>
+       <min m="19">
+       </min>
+       <min m="39">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="19">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+       <min m="22">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="URAD02" nazwa="Uradzka" ulica="Kotowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.355419" gps_e="16.859898">
+    <tabliczka id="15" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="07">
+       </min>
+       <min m="27">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+       <min m="26">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="33">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07">
+       </min>
+       <min m="20">
+       </min>
+       <min m="40">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+       <min m="23">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KOTO02" nazwa="Kotowo" ulica="Kotowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.359233" gps_e="16.853685">
+    <tabliczka id="16" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="08">
+       </min>
+       <min m="28">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07">
+       </min>
+       <min m="27">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="34">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+       <min m="21">
+       </min>
+       <min m="41">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04">
+       </min>
+       <min m="24">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="TYNZ02" nazwa="Tyniecka " ulica="Modlibowskiej" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.362281" gps_e="16.858068">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="09">
+       </min>
+       <min m="29">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="08">
+       </min>
+       <min m="28">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="09">
+       </min>
+       <min m="22">
+       </min>
+       <min m="42">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05">
+       </min>
+       <min m="25">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="FABI02" nazwa="Fabianowo" ulica="Fabianowo" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.365626" gps_e="16.858673">
+    <tabliczka id="18" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="10">
+       </min>
+       <min m="30">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="09">
+       </min>
+       <min m="29">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="37">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11">
+       </min>
+       <min m="24">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01">
+       </min>
+       <min m="24">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+       <min m="27">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="KMNZ02" nazwa="Komornicka" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.370612" gps_e="16.864045">
+    <tabliczka id="19" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="11">
+       </min>
+       <min m="31">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10">
+       </min>
+       <min m="30">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="38">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+       <min m="25">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+       <min m="25">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08">
+       </min>
+       <min m="28">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OSIA02" nazwa="Ostatnia" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.373037" gps_e="16.866524">
+    <tabliczka id="20" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="12">
+       </min>
+       <min m="32">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11">
+       </min>
+       <min m="31">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="39">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13">
+       </min>
+       <min m="26">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03">
+       </min>
+       <min m="26">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="09">
+       </min>
+       <min m="29">
+       </min>
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BOJA02" nazwa="Bojanowska" ulica="Głogowska" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.376083" gps_e="16.872235">
+    <tabliczka id="21" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="13">
+       </min>
+       <min m="33">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="12">
+       </min>
+       <min m="32">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+       <min m="15">
+       </min>
+       <min m="28">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05">
+       </min>
+       <min m="28">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+       <min m="31">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="GORC21" nazwa="Górczyn" ulica="Zgoda" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.381663" gps_e="16.880824">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>

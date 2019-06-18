@@ -1,0 +1,9369 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<linie>
+ <linia nazwa="832" typ="Linia autobusowa podmiejska" wazny_od="01.08.2018" wazny_do="">
+  <wariant id="1" nazwa="Przybroda Pętla - Os. Sobieskiego">
+   <przystanek id="PBPET02" nazwa="Przybroda Pętla" ulica="Kaźmierska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.520718" gps_e="16.656007">
+    <tabliczka id="1" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="10">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PBKOL02" nazwa="Przybroda Kolejowa" ulica="Kaźmierska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.520557" gps_e="16.662899">
+    <tabliczka id="2" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="12">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="10" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="CRPRZ02" nazwa="Cerekwica Przybrodzka" ulica="Przybrodzka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.518993" gps_e="16.691957">
+    <tabliczka id="3" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="00">
+       </min>
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="13" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MRSZA02" nazwa="Mrowino Szkoła" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.513575" gps_e="16.698731">
+    <tabliczka id="4" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="02">
+       </min>
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="15" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MRTOW02" nazwa="Mrowino Towarowa" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.506817" gps_e="16.706552">
+    <tabliczka id="5" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="03">
+       </min>
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="16" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NAPAR02" nazwa="Napachanie Park" ulica="Rokietnicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.486726" gps_e="16.729087">
+    <tabliczka id="6" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="06">
+       </min>
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="19" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NASTA02" nazwa="Napachanie Starzyńska" ulica="Rokietnicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.488758" gps_e="16.731478">
+    <tabliczka id="7" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="07">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="20" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKLES02" nazwa="Rokietnica Leśna" ulica="Szkolna" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.502548" gps_e="16.735388">
+    <tabliczka id="8" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="09">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="22" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="19">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="19">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKSZK02" nazwa="Rokietnica Szkoła" ulica="Szkolna" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.510322" gps_e="16.740494">
+    <tabliczka id="9" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="10">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="23" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKROS03" nazwa="Rokietnica ROS" ulica="Szamotulska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.512353" gps_e="16.74321">
+    <tabliczka id="10" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="11">
+       </min>
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="24" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKSTA02" nazwa="Rokietnica Stacja" ulica="Pocztowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.511769" gps_e="16.752891">
+    <tabliczka id="11" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="13">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="41">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="23">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="23">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKSPO02" nazwa="Rokietnica Spokojna" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.513926" gps_e="16.760624">
+    <tabliczka id="12" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="42">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKTOP02" nazwa="Rokietnica Topolowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.514707" gps_e="16.765184">
+    <tabliczka id="13" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="43">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYPOR02" nazwa="Bytkowo Porzeczkowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.516154" gps_e="16.772076">
+    <tabliczka id="14" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="44">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="26">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="26">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYPAW02" nazwa="Bytkowo Pawłowicka" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.517825" gps_e="16.77668">
+    <tabliczka id="15" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="18">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="45">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOSAN02" nazwa="Sobota Sanktuarium" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.522389" gps_e="16.798728">
+    <tabliczka id="16" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="20">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="47">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOKAS02" nazwa="Sobota Kasztanowa" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.521195" gps_e="16.802963">
+    <tabliczka id="17" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="21">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOPOZ02" nazwa="Sobota POZ BRUK" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.517142" gps_e="16.812511">
+    <tabliczka id="18" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="22">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZOLIP02" nazwa="Złotkowo Lipowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.506925" gps_e="16.835194">
+    <tabliczka id="19" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="25">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZOZYT02" nazwa="Złotkowo Żytnia" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.504525" gps_e="16.836094">
+    <tabliczka id="20" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="27">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="06">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="50">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZLPAW02" nazwa="Złotniki Pawłowicka" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.498485" gps_e="16.838913">
+    <tabliczka id="21" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="28">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="36">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZLLAG02" nazwa="Złotniki Łagiewnicka" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.492309" gps_e="16.845863">
+    <tabliczka id="22" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="30">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="09">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZLZLO02" nazwa="Złotniki Złotnicka" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.485647" gps_e="16.854866">
+    <tabliczka id="23" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="32">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="JENEK02" nazwa="Jelonek Nektarowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.482617" gps_e="16.860341">
+    <tabliczka id="24" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="33">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="55">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKON02" nazwa="Suchy Las Konwaliowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.478004" gps_e="16.869638">
+    <tabliczka id="25" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="34">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="13">
+       </min>
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="56">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLSZK02" nazwa="Suchy Las Szkoła" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.47571" gps_e="16.873076">
+    <tabliczka id="26" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="35">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="42">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKOS02" nazwa="Suchy Las Kościół" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.472508" gps_e="16.87802">
+    <tabliczka id="27" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03">
+       </min>
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="58">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLWIA02" nazwa="Suchy Las Wiadukt" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.468695" gps_e="16.883731">
+    <tabliczka id="28" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="59">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="6">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="6">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LEGO02" nazwa="Łęgowskiego" ulica="Obornicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.460706" gps_e="16.89322">
+    <tabliczka id="29" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07">
+       </min>
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="01">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="46">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MAGO01" nazwa="Mateckiego" ulica="Mateckiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.461642" gps_e="16.898017">
+    <tabliczka id="30" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="09">
+       </min>
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="02">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOII01" nazwa="Os. Sobieskiego II" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.465825" gps_e="16.906576">
+    <tabliczka id="31" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11">
+       </min>
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="03">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SO I01" nazwa="Os. Sobieskiego I" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.46605" gps_e="16.911357">
+    <tabliczka id="32" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="4">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="5">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="04">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="49">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOB26" nazwa="Os. Sobieskiego" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.465241" gps_e="16.916375">
+   </przystanek>
+  </wariant>
+  <wariant id="2" nazwa="Os. Sobieskiego - Przybroda Pętla">
+   <przystanek id="SOB30" nazwa="Os. Sobieskiego" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.464863" gps_e="16.916478">
+    <tabliczka id="33" mc="0">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="00" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="45" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SO I02" nazwa="Os. Sobieskiego I" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.466032" gps_e="16.91031">
+    <tabliczka id="34" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="01">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="45" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="05">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="OMII02" nazwa="Os. Marysieńki II" ulica="Stróżyńskiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.46542" gps_e="16.904849">
+    <tabliczka id="35" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="02" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="46" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="06">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MAGO02" nazwa="Mateckiego" ulica="Mateckiego" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.461849" gps_e="16.898179">
+    <tabliczka id="36" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="04" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="04">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="48" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="19">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="07">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="LEGO01" nazwa="Łęgowskiego" ulica="Obornicka" strefa="A" nazwastrefy="strefa A" cechy="" gps_n="52.46049" gps_e="16.893471">
+    <tabliczka id="37" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="06" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="06">
+       </min>
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="50" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="08">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLWIA01" nazwa="Suchy Las Wiadukt" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.469468" gps_e="16.882536">
+    <tabliczka id="38" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="08" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="08">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="52" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="10">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKOS01" nazwa="Suchy Las Kościół" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.473201" gps_e="16.876972">
+    <tabliczka id="39" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="10" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="10">
+       </min>
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="54" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="11">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLSZK01" nazwa="Suchy Las Szkoła" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.476169" gps_e="16.872383">
+    <tabliczka id="40" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="11" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="11">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="00">
+       </min>
+       <min m="55" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="12">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SLKON01" nazwa="Suchy Las Konwaliowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.478471" gps_e="16.868797">
+    <tabliczka id="41" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="12" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="12">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+       <min m="56" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="26">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="13">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="JENEK01" nazwa="Jelonek Nektarowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.48295" gps_e="16.859647">
+    <tabliczka id="42" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="13" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="13">
+       </min>
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02">
+       </min>
+       <min m="57" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="14">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZLZLO01" nazwa="Złotniki Złotnicka" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.48651" gps_e="16.853626">
+    <tabliczka id="43" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="14" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="14">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+       <min m="58" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="15">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZLLAG01" nazwa="Złotniki Łagiewnicka" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.49275" gps_e="16.845347">
+    <tabliczka id="44" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="15" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="15">
+       </min>
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="04">
+       </min>
+       <min m="59" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="29">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="16">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZLPAW01" nazwa="Złotniki Pawłowicka" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.498036" gps_e="16.839385">
+    <tabliczka id="45" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="16" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="16">
+       </min>
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="00" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="17">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZOZYT01" nazwa="Złotkowo Żytnia" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.504795" gps_e="16.835976">
+    <tabliczka id="46" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="17" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="17">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="ZOLIP01" nazwa="Złotkowo Lipowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.507896" gps_e="16.83484">
+    <tabliczka id="47" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="18" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="18">
+       </min>
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="01" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="18">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOPOZ01" nazwa="Sobota POZ BRUK" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.516828" gps_e="16.813234">
+    <tabliczka id="48" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="20" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="03" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="33">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="20">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOKAS01" nazwa="Sobota Kasztanowa" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.520889" gps_e="16.803686">
+    <tabliczka id="49" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="21" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="04" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="21">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="SOSAN01" nazwa="Sobota Sanktuarium" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.522488" gps_e="16.798005">
+    <tabliczka id="50" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="22" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="05" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="22">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYPAW01" nazwa="Bytkowo Pawłowicka" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.517313" gps_e="16.775721">
+    <tabliczka id="51" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="24" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="37">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="24">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="07" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="37">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="24">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="BYPOR01" nazwa="Bytkowo Porzeczkowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.516325" gps_e="16.772917">
+    <tabliczka id="52" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="25" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="08" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="25">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKTOP01" nazwa="Rokietnica Topolowa" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.514582" gps_e="16.764431">
+    <tabliczka id="53" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="26" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="09" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="26">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="26">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKSPO01" nazwa="Rokietnica Spokojna" ulica="Obornicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.513809" gps_e="16.759856">
+    <tabliczka id="54" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="27" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="10" ozn="R" przyp="R -  Kurs do Rokietnica/Stacja">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="40">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="27">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKSTA01" nazwa="Rokietnica Stacja" ulica="Pocztowa" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.511526" gps_e="16.753555">
+    <tabliczka id="55" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="41">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="19">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="28">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKROS04" nazwa="Rokietnica ROS" ulica="Szamotulska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.512353" gps_e="16.741911">
+    <tabliczka id="56" mc="2">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="38">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="00">
+       </min>
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="43">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="30">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKSZK01" nazwa="Rokietnica Szkoła" ulica="Szkolna" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.509828" gps_e="16.74014">
+    <tabliczka id="57" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="11">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="01">
+       </min>
+       <min m="44">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="18">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="31">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="RKLES01" nazwa="Rokietnica Leśna" ulica="Szkolna" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.503078" gps_e="16.735551">
+    <tabliczka id="58" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="02">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="45">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="53">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="13">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="32">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NASTA01" nazwa="Napachanie Starzyńska" ulica="Rakoniewicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.489289" gps_e="16.731655">
+    <tabliczka id="59" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="04">
+       </min>
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="35">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="21">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="47">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="50">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="34">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="NAPAR01" nazwa="Napachanie Park" ulica="Rokietnicka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.486384" gps_e="16.728393">
+    <tabliczka id="60" mc="1" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="30">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="43">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="05">
+       </min>
+       <min m="48">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="23">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="48">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="08">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="16">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="35">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MRTOW01" nazwa="Mrowino Towarowa" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.507312" gps_e="16.706213">
+    <tabliczka id="61" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="33">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="46">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="08">
+       </min>
+       <min m="51">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="03">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="51">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="7">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="7">
+       <min m="59">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="11">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="19">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="38">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="MRSZA01" nazwa="Mrowino Szkoła" ulica="Poznańska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.513836" gps_e="16.697948">
+    <tabliczka id="62" mc="1">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="34">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="47">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="56">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="07">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="09">
+       </min>
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="00">
+       </min>
+       <min m="40">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="26">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="27">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="04">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="52">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="8">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="20">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="10">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="55">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="39">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="CRPRZ01" nazwa="Cerekwica Przybrodzka" ulica="Przybrodzka" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.518796" gps_e="16.691219">
+    <tabliczka id="63" mc="2" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="36">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="49">
+       </min>
+      </godz>
+      <godz h="7">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="58">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="11">
+       </min>
+       <min m="54">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="02">
+       </min>
+       <min m="42">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="28">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="29">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="06">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="54">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="8">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="8">
+       <min m="02">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="14">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="22">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="21">
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="41">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PBKOL01" nazwa="Przybroda Kolejowa" ulica="Kaźmierska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.520557" gps_e="16.662191">
+    <tabliczka id="64" mc="3" cechy="nz">
+     <dzien nazwa="DNI ROBOCZE">
+      <godz h="5">
+       <min m="39">
+       </min>
+      </godz>
+      <godz h="6">
+       <min m="52">
+       </min>
+      </godz>
+      <godz h="8">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="9">
+       <min m="01">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="12">
+       </min>
+      </godz>
+      <godz h="13">
+       <min m="14">
+       </min>
+       <min m="57">
+       </min>
+      </godz>
+      <godz h="15">
+       <min m="05">
+       </min>
+       <min m="45">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="17">
+       <min m="31">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="32">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="09">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="57">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="SOBOTY">
+      <godz h="8">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+     <dzien nazwa="NIEDZ./ŚWIĘTA">
+      <godz h="8">
+       <min m="05">
+       </min>
+      </godz>
+      <godz h="10">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="12">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="14">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="16">
+       <min m="17">
+       </min>
+      </godz>
+      <godz h="18">
+       <min m="25">
+       </min>
+      </godz>
+      <godz h="20">
+       <min m="15">
+       </min>
+      </godz>
+      <godz h="22">
+       <min m="00">
+       </min>
+      </godz>
+      <godz h="23">
+       <min m="44">
+       </min>
+      </godz>
+     </dzien>
+    </tabliczka>
+   </przystanek>
+   <przystanek id="PBPET02" nazwa="Przybroda Pętla" ulica="Kaźmierska" strefa="B" nazwastrefy="strefa B" cechy="" gps_n="52.520718" gps_e="16.656007">
+   </przystanek>
+  </wariant>
+ </linia>
+</linie>
