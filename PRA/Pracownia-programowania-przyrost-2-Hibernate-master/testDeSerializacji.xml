@@ -1,0 +1,10 @@
+<ArrayList>
+    <item>
+        <idDostawcy>0</idDostawcy>
+        <szef/>
+        <samochody/>
+        <nazwa>PugsTestyyyy</nazwa>
+        <rokZalozenia>2222</rokZalozenia>
+        <idSzefa>33</idSzefa>
+    </item>
+</ArrayList>
