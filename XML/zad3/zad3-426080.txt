@@ -1,0 +1,31 @@
+/*1*/
+
+//object[@name]
+
+/*2*/
+
+//object[@id="E7"]
+
+/*3*/
+
+//object[extra]
+
+/*4*/
+
+//object[not(@name)]/description[1]/text()
+
+/*5*/
+
+//object/description[2]
+
+/*6*/
+
+//object[not(node())]
+
+/*7*/
+
+//object[description[description]] | //object[*[description[description]]]
+
+/*8*/
+
+//object[*[description[emphasis]] and not(*[extra[emphasis]])] | //object[description[emphasis] and not(extra[emphasis])]

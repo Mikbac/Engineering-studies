@@ -1,0 +1,4 @@
+\r faktoryzacja.qp
+\r faktoryzacja
+\r faktoryzacja.qp
+\r faktoryzacjaNew.gp 

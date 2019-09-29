@@ -1,0 +1,14 @@
+\r generowanieKrzywej.gp 
+\r znajdowaniePunktu.gp 
+\r pP.gp 
+\r przypadki.gp 
+\r pP.gp 
+\r przypadki.gp 
+\r krz
+\r generowanieKrzywej.gp 
+\r znajdowaniePunktu.gp 
+\r przypadki.gp 
+\r pP.gp 
+\r generowanieKrzywej.gp 
+\r znajdowaniePunktu.gp 
+\r pP.gp 

@@ -1,0 +1,126 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Wyciag">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Naglowek">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="KodFormularza">
+                <xs:complexType>
+                  <xs:simpleContent>
+                    <xs:extension base="xs:string">
+                      <xs:attribute type="xs:string" name="kodSystemowy"/>
+                      <xs:attribute type="xs:string" name="wersjaSchemy"/>
+                    </xs:extension>
+                  </xs:simpleContent>
+                </xs:complexType>
+              </xs:element>
+              <xs:element type="xs:byte" name="WariantFormularza"/>
+              <xs:element type="xs:byte" name="CelZlozenia"/>
+              <xs:element type="xs:dateTime" name="DataWytworzeniaJPK"/>
+              <xs:element type="xs:date" name="DataOd"/>
+              <xs:element type="xs:date" name="DataDo"/>
+              <xs:element type="xs:string" name="DomyslnyKodWaluty"/>
+              <xs:element type="xs:short" name="KodUrzedu"/>
+              <xs:element name="Bank">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="NazwaBanku"/>
+                    <xs:element type="xs:string" name="AdresBanku"/>
+                    <xs:element type="xs:string" name="StronaInternetowa"/>
+                    <xs:element type="xs:int" name="Infolinia"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Saldo">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:float" name="SaldoPoczatkowe"/>
+                    <xs:element type="xs:float" name="SaldoKoncowe"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Podmiot">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:integer" name="NumerRachunku"/>
+              <xs:element type="xs:string" name="NumerIBAN"/>
+              <xs:element type="xs:string" name="RodzajRachunku"/>
+              <xs:element type="xs:string" name="WalutaRachunku"/>
+              <xs:element name="IdentyfikatorPodmiotu">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="Imie"/>
+                    <xs:element type="xs:string" name="Nazwisko"/>
+                    <xs:element type="xs:string" name="DataUrodzenia"/>
+                    <xs:element type="xs:long" name="Pesel"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="AdresPodmiotu">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="KodKraju"/>
+                    <xs:element type="xs:string" name="Wojewodztwo"/>
+                    <xs:element type="xs:string" name="Powiat"/>
+                    <xs:element type="xs:string" name="Gmina"/>
+                    <xs:element type="xs:string" name="Ulica"/>
+                    <xs:element type="xs:byte" name="NrDomu"/>
+                    <xs:element type="xs:byte" name="NrLokalu"/>
+                    <xs:element type="xs:string" name="Miejscowosc"/>
+                    <xs:element type="xs:string" name="KodPocztowy"/>
+                    <xs:element type="xs:string" name="Poczta"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Operacje">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Operacja" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:date" name="DataOperacji"/>
+                    <xs:element type="xs:string" name="GodzinaOperacji"/>
+                    <xs:element type="xs:date" name="DataWaluty"/>
+                    <xs:element type="xs:string" name="TypPlatnosci"/>
+                    <xs:element type="xs:string" name="Waluta"/>
+                    <xs:element name="OpisOperacji">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="NazwaPodmiotu"/>
+                          <xs:element type="xs:integer" name="NrRachunkuPrzeciwstawnego"/>
+                          <xs:element type="xs:string" name="DaneAdresowe"/>
+                          <xs:element type="xs:string" name="Tytul"/>
+                          <xs:element type="xs:string" name="TypOperacji"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:float" name="KwotaOperacji"/>
+                    <xs:element type="xs:float" name="Saldo"/>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="IdentyfikatorOperacji" use="optional"/>
+                  <xs:attribute type="xs:byte" name="id" use="optional"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="WyciagCtrl">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:byte" name="LiczbaOperacji"/>
+              <xs:element type="xs:float" name="SumaObciazen"/>
+              <xs:element type="xs:float" name="SumaUznan"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

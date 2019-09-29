@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="zad-426080.xslt"?>
+<Wyciag>
+    <Naglowek>
+        <KodFormularza kodSystemowy="JPK_WB" wersjaSchemy="1-0">JPK_WB</KodFormularza>
+        <WariantFormularza>1</WariantFormularza>
+        <CelZlozenia>1</CelZlozenia>
+        <DataWytworzeniaJPK>2016-07-12T15:24:51</DataWytworzeniaJPK>
+        <DataOd>2016-01-01</DataOd>
+        <DataDo>2016-06-30</DataDo>
+        <DomyslnyKodWaluty>PLN</DomyslnyKodWaluty>
+        <KodUrzedu>0402</KodUrzedu>
+        <Bank>
+            <NazwaBanku>Super Bank</NazwaBanku>
+            <AdresBanku>Bagatela 15, 00-585, Warszawa</AdresBanku>
+            <StronaInternetowa>superBank.pl</StronaInternetowa>
+            <Infolinia>444555444</Infolinia>
+        </Bank>
+        <Saldo>
+            <SaldoPoczatkowe>1000.00</SaldoPoczatkowe>
+            <SaldoKoncowe>13700.00</SaldoKoncowe>
+        </Saldo>
+    </Naglowek>
+    <Podmiot>
+        <NumerRachunku>0910205561000050200421818</NumerRachunku>
+        <NumerIBAN>PL60370900550454013000224444</NumerIBAN>
+        <RodzajRachunku>Super konto</RodzajRachunku>
+        <WalutaRachunku>PLN</WalutaRachunku>
+        <IdentyfikatorPodmiotu>
+            <Imie>Michał</Imie>
+            <Nazwisko>Nowak</Nazwisko>
+            <DataUrodzenia>04-11-1993</DataUrodzenia>
+            <Pesel>9311049457</Pesel>
+        </IdentyfikatorPodmiotu>
+        <AdresPodmiotu>
+            <KodKraju>PL</KodKraju>
+            <Wojewodztwo>DOLNOŚLĄSKIE</Wojewodztwo>
+            <Powiat>WROCLAW</Powiat>
+            <Gmina>WROCLAW</Gmina>
+            <Ulica>DOLNA</Ulica>
+            <NrDomu>13</NrDomu>
+            <NrLokalu>22</NrLokalu>
+            <Miejscowosc>WROCLAW</Miejscowosc>
+            <KodPocztowy>50-006</KodPocztowy>
+            <Poczta>WROCLAW</Poczta>
+        </AdresPodmiotu>
+    </Podmiot>
+    <Operacje>
+        <Operacja IdentyfikatorOperacji="9033FG56432756488" id="1">
+            <DataOperacji>2016-01-05</DataOperacji>
+            <GodzinaOperacji>13:23</GodzinaOperacji>
+            <DataWaluty>2016-01-05</DataWaluty>
+            <TypPlatnosci>Wyplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>Bar Kropka sp.z o.o.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11237293940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Dabrowskiego 25, 22-426, Wroclaw</DaneAdresowe>
+                <Tytul>Platnosc</Tytul>
+                <TypOperacji>Zakup przy uzyciu karty</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-100.00</KwotaOperacji>
+            <Saldo>900.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="2343FG21232791488" id="2">
+            <DataOperacji>2016-01-25</DataOperacji>
+            <GodzinaOperacji>09:37</GodzinaOperacji>
+            <DataWaluty>2016-01-25</DataWaluty>
+            <TypPlatnosci>Wyplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>Witchen</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>83958323940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Dmowskiego 80, 22-426, Warszawa</DaneAdresowe>
+                <Tytul>Wplata</Tytul>
+                <TypOperacji>Zakup przy uzyciu karty</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-500.00</KwotaOperacji>
+            <Saldo>400.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="123FG21232654488" id="3">
+            <DataOperacji>2016-01-31</DataOperacji>
+            <GodzinaOperacji>16:45</GodzinaOperacji>
+            <DataWaluty>2016-01-31</DataWaluty>
+            <TypPlatnosci>Wplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>QB Co.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11201456940342123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Fryderyka Chopina 5, 22-426, Warszawa</DaneAdresowe>
+                <Tytul>Pensja</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>3500.00</KwotaOperacji>
+            <Saldo>3900.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="3453FG25675791488" id="4">
+            <DataOperacji>2016-02-21</DataOperacji>
+            <GodzinaOperacji>08:56</GodzinaOperacji>
+            <DataWaluty>2016-02-21</DataWaluty>
+            <TypPlatnosci>Wyplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>LokDom sp. z o. o.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>94857323940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Kazimierza Wielkiego 11, 22-426, Wroclaw</DaneAdresowe>
+                <Tytul>Oplata za mieszkanie</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-1500.00</KwotaOperacji>
+            <Saldo>2400.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="8763FG21232981488" id="5">
+            <DataOperacji>2016-02-29</DataOperacji>
+            <GodzinaOperacji>18:32</GodzinaOperacji>
+            <DataWaluty>2016-02-29</DataWaluty>
+            <TypPlatnosci>Wplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>QB Co.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11201456940342123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Fryderyka Chopina 5, 22-426, Warszawa</DaneAdresowe>
+                <Tytul>Pensja</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>3500.00</KwotaOperacji>
+            <Saldo>5900.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="4683FG21237651488" id="6">
+            <DataOperacji>2016-03-03</DataOperacji>
+            <GodzinaOperacji>15:08</GodzinaOperacji>
+            <DataWaluty>2016-03-03</DataWaluty>
+            <TypPlatnosci>Wyplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>Bar Kropka sp.z o.o.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11237293940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Dabrowskiego 25, 22-426, Wroclaw</DaneAdresowe>
+                <Tytul>Platnosc</Tytul>
+                <TypOperacji>Zakup przy uzyciu karty</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-100.00</KwotaOperacji>
+            <Saldo>5800.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="6543FG21237651488" id="7">
+            <DataOperacji>2016-03-11</DataOperacji>
+            <GodzinaOperacji>14:52</GodzinaOperacji>
+            <DataWaluty>2016-03-11</DataWaluty>
+            <TypPlatnosci>Wplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>LokDom sp. z o. o.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>94857323940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Kazimierza Wielkiego 11, 22-426, Wroclaw</DaneAdresowe>
+                <Tytul>Oplata za mieszkanie</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-1500.00</KwotaOperacji>
+            <Saldo>4300.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="8763FG21232765488" id="8">
+            <DataOperacji>2016-03-31</DataOperacji>
+            <GodzinaOperacji>06:59</GodzinaOperacji>
+            <DataWaluty>2016-03-31</DataWaluty>
+            <TypPlatnosci>Wplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>QB Co.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11201456940342123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Fryderyka Chopina 5, 22-426, Warszawa</DaneAdresowe>
+                <Tytul>Pensja</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>3500.00</KwotaOperacji>
+            <Saldo>7800.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="2353FG21236541488" id="9">
+            <DataOperacji>2016-04-03</DataOperacji>
+            <GodzinaOperacji>11:22</GodzinaOperacji>
+            <DataWaluty>2016-04-03</DataWaluty>
+            <TypPlatnosci>Wyplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>LokDom sp. z o. o.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>94857323940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Kazimierza Wielkiego 11, 22-426, Wroclaw</DaneAdresowe>
+                <Tytul>Oplata za mieszkanie</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-1500.00</KwotaOperacji>
+            <Saldo>6300.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="3543FG21232467488" id="10">
+            <DataOperacji>2016-04-14</DataOperacji>
+            <GodzinaOperacji>07:35</GodzinaOperacji>
+            <DataWaluty>2016-04-14</DataWaluty>
+            <TypPlatnosci>Wyplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>Bar Kropka sp.z o.o.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11237293940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Dabrowskiego 25, 22-426, Wroclaw</DaneAdresowe>
+                <Tytul>Platnosc</Tytul>
+                <TypOperacji>Zakup przy uzyciu karty</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-100.00</KwotaOperacji>
+            <Saldo>6200.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="2683FG21226691488" id="11">
+            <DataOperacji>2016-04-30</DataOperacji>
+            <GodzinaOperacji>15:42</GodzinaOperacji>
+            <DataWaluty>2016-04-30</DataWaluty>
+            <TypPlatnosci>Wplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>QB Co.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11201456940342123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Fryderyka Chopina 5, 22-426, Warszawa</DaneAdresowe>
+                <Tytul>Pensja</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>3500.00</KwotaOperacji>
+            <Saldo>9700.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="3453FG21232379488" id="12">
+            <DataOperacji>2016-05-11</DataOperacji>
+            <GodzinaOperacji>12:12</GodzinaOperacji>
+            <DataWaluty>2016-05-11</DataWaluty>
+            <TypPlatnosci>Wyplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>LokDom sp. z o. o.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>94857323940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Kazimierza Wielkiego 11, 22-426, Wroclaw</DaneAdresowe>
+                <Tytul>Oplata za mieszkanie</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-1500.00</KwotaOperacji>
+            <Saldo>8200.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="1273FG21232375488" id="13">
+            <DataOperacji>2016-05-31</DataOperacji>
+            <GodzinaOperacji>12:52</GodzinaOperacji>
+            <DataWaluty>2016-05-31</DataWaluty>
+            <TypPlatnosci>Wplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>QB Co.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11201456940342123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Fryderyka Chopina 5, 22-426, Warszawa</DaneAdresowe>
+                <Tytul>Pensja</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>3500.00</KwotaOperacji>
+            <Saldo>11700.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="3453FG23452345488" id="14">
+            <DataOperacji>2016-06-17</DataOperacji>
+            <GodzinaOperacji>10:26</GodzinaOperacji>
+            <DataWaluty>2016-06-17</DataWaluty>
+            <TypPlatnosci>Wyplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>LokDom sp. z o. o.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>94857323940000123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Kazimierza Wielkiego 11, 22-426, Wroclaw</DaneAdresowe>
+                <Tytul>Oplata za mieszkanie</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>-1500.00</KwotaOperacji>
+            <Saldo>10200.00</Saldo>
+        </Operacja>
+        <Operacja IdentyfikatorOperacji="8673FG21232795678" id="15">
+            <DataOperacji>2016-06-30</DataOperacji>
+            <GodzinaOperacji>15:12</GodzinaOperacji>
+            <DataWaluty>2016-06-30</DataWaluty>
+            <TypPlatnosci>Wplata</TypPlatnosci>
+            <Waluta>PLN</Waluta>
+            <OpisOperacji>
+                <NazwaPodmiotu>QB Co.</NazwaPodmiotu>
+                <NrRachunkuPrzeciwstawnego>11201456940342123948201212</NrRachunkuPrzeciwstawnego>
+                <DaneAdresowe>ul. Fryderyka Chopina 5, 22-426, Warszawa</DaneAdresowe>
+                <Tytul>Pensja</Tytul>
+                <TypOperacji>Przelew</TypOperacji>
+            </OpisOperacji>
+            <KwotaOperacji>3500.00</KwotaOperacji>
+            <Saldo>13700.00</Saldo>
+        </Operacja>
+    </Operacje>
+    <WyciagCtrl>
+        <LiczbaOperacji>15</LiczbaOperacji>
+        <SumaObciazen>8300.00</SumaObciazen>
+        <SumaUznan>21000.00</SumaUznan>
+    </WyciagCtrl>
+</Wyciag>

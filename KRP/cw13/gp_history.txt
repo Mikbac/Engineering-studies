@@ -1,0 +1,3 @@
+\r generowanieKluczyElgamala.gp 
+\r szyfrowanieElgamal.gp 
+\r deszyfrowanieElgamal.gp 

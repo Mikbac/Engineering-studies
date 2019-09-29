@@ -1,0 +1,4 @@
+\r Elgmal.gp 
+\r E.gp 
+D.gp 
+\r D.gp

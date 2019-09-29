@@ -1,0 +1,26 @@
+./main -s Dziala -b 5
+
+
+
+
+# raspberry 
+
+1. twórz katalog ze swoim numerem indeksu w katalogu poligon/tmp. 
+
+2. wget http://mprill.faculty.wmi.amu.edu.pl/SWB/kernel-qemu
+
+3. Pobierz obraz systemu minibian z http://mprill.faculty.wmi.amu.edu.pl/SWB/2015-02-18-wheezy-minibian.tar.gz oraz rozpakuj go do swojego podkatalogu w /tmp. 
+
+4. Uruchom qemu z następującymi parametrami: 
+    qemu-system-arm -kernel kernel-qemu -cpu arm1176 -m 192 -M versatilepb -append "root=/dev/sda2" -hda 2015-02-18-wheezy-minibian.img -net user,hostfwd=tcp::2222-:22 -net nic 
+
+5. Zaloguj się na wirtualnej konsoli za pomocą nazwy użytkownika root i hasła raspberry
+
+6. ssh root@localhost -p 2222 
+
+7. Sklonuj do /tmp
+ git clone https://github.com/raspberrypi/tools.git --depth=1
+
+8. Skopiuj
+    scp -P 2222 main root@localhost:~/main
+

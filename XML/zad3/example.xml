@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:fn="http://www.w3.org/2005/xpath-functions">
+<object id="E1" name="pierwszy">
+<description>This is first object</description>
+</object>
+<object id="E2" name="drugi">
+<description>This is second object</description>
+<strange>This is not description nor extra</strange>
+<extra>Second element has <emphasis>extra</emphasis>.</extra>
+</object>
+<object id="E3" name="trzeci">
+<description>This is third elementi</description>
+<description>It has two descriptions</description>
+</object>
+<object id="E4"/>
+<object id="E5">
+<description>This is object number <emphasis>five</emphasis></description>
+</object>
+<object id="E6" name="szósty">
+<extra><emphasis>sixth</emphasis> object has no description, only <emphasis>extra</emphasis>.</extra>
+</object>
+<object id="E7" name="siódmy">
+<description>Seventh object</description>
+<description>It has two <emphasis>descriptions</emphasis></description>
+<extra>And an <emphasis>extra</emphasis>!</extra>
+<extra>And another one <emphasis>to make it more complex</emphasis></extra>
+</object>
+<object id="E8">
+<description>Eight object <description>has <emphasis>nested</emphasis> description</description></description>
+</object>
+<object id="E9" name="dziewiąty">
+<description>9 and 10 have the same content</description>
+</object>
+<object name="dziesiąty">
+<description>9 and 10 have the same content</description>
+</object>
+</root>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT KodFormularza (#PCDATA)>
+<!ATTLIST KodFormularza 
+	kodSystemowy CDATA #REQUIRED
+	wersjaSchemy CDATA #REQUIRED>
+<!ELEMENT WariantFormularza (#PCDATA)>
+<!ELEMENT CelZlozenia (#PCDATA)>
+<!ELEMENT DataWytworzeniaJPK (#PCDATA)>
+<!ELEMENT DataOd (#PCDATA)>
+<!ELEMENT DataDo (#PCDATA)>
+<!ELEMENT DomyslnyKodWaluty (#PCDATA)>
+<!ELEMENT KodUrzedu (#PCDATA)>
+<!ELEMENT NazwaBanku (#PCDATA)>
+<!ELEMENT AdresBanku (#PCDATA)>
+<!ELEMENT StronaInternetowa (#PCDATA)>
+<!ELEMENT Infolinia (#PCDATA)>
+<!ELEMENT Bank (NazwaBanku,AdresBanku,StronaInternetowa,Infolinia)>
+<!ELEMENT SaldoPoczatkowe (#PCDATA)>
+<!ELEMENT SaldoKoncowe (#PCDATA)>
+<!ELEMENT Naglowek (KodFormularza,WariantFormularza,CelZlozenia,DataWytworzeniaJPK,DataOd,DataDo,DomyslnyKodWaluty,KodUrzedu,Bank,Saldo)>
+<!ELEMENT NumerRachunku (#PCDATA)>
+<!ELEMENT NumerIBAN (#PCDATA)>
+<!ELEMENT RodzajRachunku (#PCDATA)>
+<!ELEMENT WalutaRachunku (#PCDATA)>
+<!ELEMENT Imie (#PCDATA)>
+<!ELEMENT Nazwisko (#PCDATA)>
+<!ELEMENT DataUrodzenia (#PCDATA)>
+<!ELEMENT Pesel (#PCDATA)>
+<!ELEMENT IdentyfikatorPodmiotu (Imie,Nazwisko,DataUrodzenia,Pesel)>
+<!ELEMENT KodKraju (#PCDATA)>
+<!ELEMENT Wojewodztwo (#PCDATA)>
+<!ELEMENT Powiat (#PCDATA)>
+<!ELEMENT Gmina (#PCDATA)>
+<!ELEMENT Ulica (#PCDATA)>
+<!ELEMENT NrDomu (#PCDATA)>
+<!ELEMENT NrLokalu (#PCDATA)>
+<!ELEMENT Miejscowosc (#PCDATA)>
+<!ELEMENT KodPocztowy (#PCDATA)>
+<!ELEMENT Poczta (#PCDATA)>
+<!ELEMENT AdresPodmiotu (KodKraju,Wojewodztwo,Powiat,Gmina,Ulica,NrDomu,NrLokalu,Miejscowosc,KodPocztowy,Poczta)>
+<!ELEMENT Podmiot (NumerRachunku,NumerIBAN,RodzajRachunku,WalutaRachunku,IdentyfikatorPodmiotu,AdresPodmiotu)>
+<!ELEMENT DataOperacji (#PCDATA)>
+<!ELEMENT GodzinaOperacji (#PCDATA)>
+<!ELEMENT DataWaluty (#PCDATA)>
+<!ELEMENT TypPlatnosci (#PCDATA)>
+<!ELEMENT Waluta (#PCDATA)>
+<!ELEMENT NazwaPodmiotu (#PCDATA)>
+<!ELEMENT NrRachunkuPrzeciwstawnego (#PCDATA)>
+<!ELEMENT DaneAdresowe (#PCDATA)>
+<!ELEMENT Tytul (#PCDATA)>
+<!ELEMENT TypOperacji (#PCDATA)>
+<!ELEMENT OpisOperacji (NazwaPodmiotu,NrRachunkuPrzeciwstawnego,DaneAdresowe,Tytul,TypOperacji)>
+<!ELEMENT KwotaOperacji (#PCDATA)>
+<!ELEMENT Saldo (#PCDATA|SaldoPoczatkowe|SaldoKoncowe)*>
+<!ELEMENT Operacja (DataOperacji,GodzinaOperacji,DataWaluty,TypPlatnosci,Waluta,OpisOperacji,KwotaOperacji,Saldo)>
+<!ATTLIST Operacja 
+	IdentyfikatorOperacji CDATA #REQUIRED
+	id CDATA #REQUIRED>
+<!ELEMENT Operacje (Operacja)+>
+<!ELEMENT LiczbaOperacji (#PCDATA)>
+<!ELEMENT SumaObciazen (#PCDATA)>
+<!ELEMENT SumaUznan (#PCDATA)>
+<!ELEMENT WyciagCtrl (LiczbaOperacji,SumaObciazen,SumaUznan)>
+<!ELEMENT Wyciag (Naglowek,Podmiot,Operacje,WyciagCtrl)>
