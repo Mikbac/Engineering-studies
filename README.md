@@ -5,6 +5,7 @@ Computer Science at the Adam Mickiewicz University - Projects and homework I wro
 ## Subjects:
 * APO - Analiza i projektowanie obiektowe
 * BAD - Bazy danych
+* bsm - Bezpieczeństwo systemów mobilnych
 * GRK - Grafika komputerowa
 * KRP - Kryptografia
 * PRA - Pracownia programowania
