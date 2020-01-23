@@ -1,0 +1,26 @@
+<resources>
+    <string name="title_activity_fingerprint_main">FingerprintMainActivity</string>
+    <string name="title_activity_fingerprint_notebook">FingerprintNotebook</string>
+    <string name="app_name">Notebook</string>
+    <string name="todo">TODO</string>
+    <string name="bye">Bye!</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="fingerprint_authentication">Fingerprint Authentication</string>
+    <string name="place_your_finger_on_the_scanner_to_proceed">Place your Finger on the Scanner to Proceed</string>
+    <string name="place_your_finger_on_the_scanner_to_proceed_pl">Umieść palec na skanerze, aby kontynuować</string>
+    <string name="prompt_login">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_old_password">Old password</string>
+    <string name="prompt_new_password">New password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >4 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="passwords_changed_correctly">"Passwords changed correctly!"</string>
+    <string name="invalid_passwords">"Invalid passwords!"</string>
+    <string name="title_activity_notebook">NotebookActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>

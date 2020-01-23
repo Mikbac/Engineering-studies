@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.e.combo_fingerprint_and_loginpassword">
+
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".password.PasswordSettings"></activity>
+        <activity android:name=".password.PasswordNotebook" />
+
+        <activity android:name=".password.PasswordMain" />
+        <activity
+            android:name=".fingerprint.FingerprintNotebook"
+            android:label="@string/title_activity_fingerprint_notebook"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".fingerprint.FingerprintMainActivity"
+            android:label="@string/title_activity_fingerprint_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

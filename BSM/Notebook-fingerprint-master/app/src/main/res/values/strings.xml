@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="todo">TODO</string>
+    <string name="bye">Bye!</string>
+    <string name="fingerprint_authentication">Fingerprint Authentication</string>
+    <string name="place_your_finger_on_the_scanner_to_proceed">Place your Finger on the Scanner to Proceed</string>
+    <string name="place_your_finger_on_the_scanner_to_proceed_pl">Umieść palec na skanerze, aby kontynuować</string>
+</resources>
